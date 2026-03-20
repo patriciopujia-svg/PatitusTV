@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Video Ejemplo 1",
+    "videoId": "ArKbAx1K-2U",
+    "logo": "https://ejemplo.com/logo1.png",
+    "group": "Música"
+  },
+  {
+    "title": "Video Ejemplo 2",
+    "videoId": "cb12KmMMDJA",
+    "logo": "https://ejemplo.com/logo2.png",
+    "group": "Educación"
+  }
+]
