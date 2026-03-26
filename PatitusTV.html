@@ -1,0 +1,109 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PatitusTV</title>
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+  <style>
+    body { font-family: Arial, sans-serif; background:#111; color:#fff; margin:0; }
+    header { padding:1rem; background:#1f1f1f; }
+    input, select { padding:.5rem; margin-right:.5rem; }
+    h2 { margin-top:2rem; }
+    .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(140px,1fr)); gap:1rem; }
+    .card { background:#222; padding:.5rem; cursor:pointer; text-align:center; border-radius:6px; }
+    .card img { max-height:80px; object-fit:contain; }
+    #player { position:fixed; inset:0; background:rgba(0,0,0,.8); display:none; align-items:center; justify-content:center; }
+    #player video, #player iframe { width:80%; max-width:900px; aspect-ratio:16/9; }
+  </style>
+</head>
+<body>
+<header>
+  <h1>📺 PatitusTV</h1>
+  <input id="searchName" placeholder="Buscar por nombre" />
+  <select id="searchCategory">
+    <option value="">Todas las categorías</option>
+  </select>
+</header>
+<main id="content" style="padding:1rem"></main>
+<div id="player" onclick="this.style.display='none'"></div>
+
+<script>
+const IPTV_URL = 'https://raw.githubusercontent.com/patriciopujia-svg/PatitusTV/main/channel.m3u';
+const YT_URL = 'https://raw.githubusercontent.com/patriciopujia-svg/PatitusTV/main/youtube.json';
+
+let channels = [];
+
+function parseM3U(text) {
+  const lines = text.split('
+');
+  const out = [];
+  let cur = {};
+  for (const l of lines) {
+    if (l.startsWith('#EXTINF')) {
+      cur = {
+        name: l.split(',').pop(),
+        category: (l.match(/group-title="(.*?)"/)||[])[1] || 'Otros',
+        logo: (l.match(/tvg-logo="(.*?)"/)||[])[1],
+        type:'iptv'
+      };
+    } else if (l.startsWith('http')) {
+      out.push({...cur, url:l});
+    }
+  }
+  return out;
+}
+
+function render() {
+  const nameQ = searchName.value.toLowerCase();
+  const catQ = searchCategory.value;
+  const filtered = channels.filter(c =>
+    (!nameQ || (c.name||c.title).toLowerCase().includes(nameQ)) &&
+    (!catQ || c.category === catQ)
+  );
+
+  content.innerHTML = '';
+  const grouped = {};
+  filtered.forEach(c => (grouped[c.category] ??= []).push(c));
+
+  for (const [cat, items] of Object.entries(grouped)) {
+    const h2 = document.createElement('h2'); h2.textContent = cat;
+    const grid = document.createElement('div'); grid.className='grid';
+    items.forEach(c => {
+      const d = document.createElement('div'); d.className='card';
+      d.innerHTML = `<img src="${c.logo||c.thumbnail||''}"><div>${c.name||c.title}</div>`;
+      d.onclick = () => play(c);
+      grid.appendChild(d);
+    });
+    content.append(h2, grid);
+  }
+}
+
+function play(c) {
+  player.style.display='flex'; player.innerHTML='';
+  if (c.type==='youtube') {
+    player.innerHTML = `<iframe src="https://www.youtube.com/embed/${c.videoId}" allowfullscreen></iframe>`;
+  } else {
+    const v = document.createElement('video'); v.controls=true; v.autoplay=true;
+    player.appendChild(v);
+    if (Hls.isSupported()) { const h=new Hls(); h.loadSource(c.url); h.attachMedia(v); }
+    else v.src=c.url;
+  }
+}
+
+Promise.all([
+  fetch(IPTV_URL).then(r=>r.text()),
+  fetch(YT_URL).then(r=>r.json())
+]).then(([m3u, yt]) => {
+  channels = [...parseM3U(m3u), ...yt.map(y=>({...y, category:y.category||'YouTube', type:'youtube'}))];
+  const cats = [...new Set(channels.map(c=>c.category))].sort();
+  cats.forEach(c => { const o=document.createElement('option'); o.value=o.textContent=c; searchCategory.appendChild(o); });
+  render();
+});
+
+searchName.oninput = render;
+searchCategory.onchange = render;
+</script>
+</body>
+</html>
