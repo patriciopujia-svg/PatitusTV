@@ -1,4 +1,22 @@
 #EXTM3U
+# Noticias
+#EXTINF:-1 tvg-id="0222" tvg-name="A24" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/A24_%282025%29.svg/2560px-A24_%282025%29.svg.png",A24
+https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
+#EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/2048px-Canal_26_logo_%282022%29.svg.png",Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:-1 tvg-id="0905" tvg-name="TN" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png", TN
+#EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
+#EXTINF:-1 tvg-id="0934" tvg-name="Crónica TV" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png",Crónica TV
+https://g1.vxral-hor.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/playlist.m3u8?sense=true
+#EXTINF:-1 tvg-id="0964" tvg-name="Canal E" group-title="Noticias" tvg-logo="https://files.catbox.moe/tacipf.png",Canal E
+https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="0922" tvg-name="Argentina 12" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Argentina12_2025.svg/2560px-Argentina12_2025.svg.png",Argentina 12
+https://radiosargentina.com.ar/php/artvYT.php?id=ARCD_CABA__24.5ARGENTINA1
+#EXTINF:-1 tvg-id="0904" tvg-name="LN+" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/La-Nacion-Mas-Logo.svg/2560px-La-Nacion-Mas-Logo.svg.png",LN+
+https://radiosargentina.com.ar/php/artvYT.php?id=ARCD_CABA__25.3LN________
+
 #EXTINF:-1 tvg-id="13MaxTelevision.ar" tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="General",13Max Television
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="News",24/7 Canal de Noticias
