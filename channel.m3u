@@ -123,8 +123,7 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-id="AstroNet.ar" tvg-logo="https://i.imgur.com/SNbLfau.png" group-title="Science",Astro Net
 https://stmv1.cnarlatam.com/astronet/astronet/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Aunar.ar" tvg-logo="https://i.imgur.com/BfaCaZF.png" group-title="Culture;Travel",Aunar
-https://538d0bde28ccf.streamlock.net/live-cont.ar/mirador/.m3u8
+
 #EXTINF:-1 tvg-id="AVCHD.ar" tvg-logo="https://i.imgur.com/8CT4y1O.png" group-title="",AVC HD
 https://ssh101.bozztv.com/ssh101/streamavc/playlist.m3u8
 #EXTINF:-1 tvg-id="AventurasTV.ar" tvg-logo="https://i.imgur.com/qt6g1wi.png" group-title="Entertainment",Aventuras TV
@@ -330,8 +329,7 @@ https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 #EXTINF:-1 tvg-id="CincoTV.ar" tvg-logo="https://i.imgur.com/p9aaBKg.png" group-title="",Cinco TV
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
-#EXTINF:-1 tvg-id="CineAr.ar" tvg-logo="https://i.imgur.com/Iozv4tT.png" group-title="Movies",Cine.Ar
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="",Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
@@ -540,8 +538,7 @@ http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Telesol.ar" tvg-logo="https://i.imgur.com/79sTxtP.png" group-title="",Telesol
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TeloCuentoyQue.ar" tvg-logo="https://i.imgur.com/SWh8ZiH.png" group-title="Entertainment;News",Te lo Cuento y Que
-https://stmv1.cnarlatam.com/telocuento/telocuento/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TelpinTVCanal2HD.ar" tvg-logo="https://i.imgur.com/qcVSZvo.png" group-title="",Telpin TV Canal 2 HD
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TierraMiaTV.ar" tvg-logo="https://i.imgur.com/LQCaoH9.png" group-title="",Tierra Mia TV
@@ -580,37 +577,13 @@ https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
 https://5f700d5b2c46f.streamlock.net/vtvmendoza/vtvmendoza/playlist.m3u8
 #EXTINF:-1 tvg-id="X24.ar" tvg-logo="https://i.imgur.com/qO6ZdET.png" group-title="",X24
 http://srv1.zcast.com.ar/x24hd/x24hd/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaAccion.ar" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="Movies",Xtrema Accion
-https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaAnimal.ar" tvg-logo="https://i.imgur.com/HQxKLlK.png" group-title="Documentary;Science",Xtrema Animal
-https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="XtremaAnime.ar" tvg-logo="https://i.imgur.com/yor5owS.png" group-title="Infantil",Xtrema Anime
 https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaAsia.ar" tvg-logo="https://i.imgur.com/xX1tfJz.png" group-title="Movies",Xtrema Asia
-https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
+
 #EXTINF:-1 tvg-id="XtremaCartoons.ar" tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="Infantil",Xtrema Cartoons
 https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaComedy.ar" tvg-logo="https://i.imgur.com/aNUufoq.png" group-title="Comedy;Movies",Xtrema Comedy
-https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaDrama.ar" tvg-logo="https://i.imgur.com/lkQBPmN.png" group-title="Movies",Xtrema Drama
-https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaEuropa.ar" tvg-logo="https://i.imgur.com/o4EMF7I.png" group-title="Movies",Xtrema Europa
-https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
-
-#EXTINF:-1 tvg-id="XtremaHindi.ar" tvg-logo="https://i.imgur.com/9QIasCj.png" group-title="Movies",Xtrema Hindi
-https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaLatina.ar" tvg-logo="https://i.imgur.com/swgrOiH.png" group-title="Movies",Xtrema Latina
-https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="XtremaSeries.ar" tvg-logo="https://i.imgur.com/J7ZZIQN.png" group-title="Movies",Xtrema Series
-https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaSuspenso.ar" tvg-logo="https://i.imgur.com/7Vwno5k.png" group-title="Movies",Xtrema Suspenso
-https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaTerror.ar" tvg-logo="https://i.imgur.com/FcaTUym.png" group-title="Movies",Xtrema Terror
-https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
-#EXTINF:-1 tvg-id="ZondaTV.ar" tvg-logo="https://i2.paste.pics/0892ef7fbb6b42523737174dba3bc445.png" group-title="",Zonda TV
-https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 
 
 #EXTM3U
@@ -804,48 +777,41 @@ https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
 #EXTINF:-1 tvg-id="ViajarTV.ar@SD" tvg-logo="https://i.imgur.com/LxB7ZIu.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Undefined",Viajar TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/VVP0MGDRUILC8BDR6S0M/hls3/now,-1m/m.m3u8?ads.vf=X90osqQhWPS
-#EXTINF:-1 tvg-id="XtremaAccion.ar@SD" tvg-logo="https://i.imgur.com/z5NwizH.png" http-referrer="https://xtrematv.com/?p=1434" group-title="Movies",Xtrema Accion
-#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1434
-https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+
 #EXTINF:-1 tvg-id="XtremaCartoons.ar@SD" tvg-logo="https://i.imgur.com/X2d8y4e.png" http-referrer="https://xtrematv.com/?p=1390" group-title="Infantil",Xtrema Cartoons
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
-
-#EXTINF:-1 tvg-id="XtremaTerror.ar@SD" tvg-logo="https://i.imgur.com/FcaTUym.png" http-referrer="https://xtrematv.com/?p=1456" group-title="Movies",Xtrema Terror
-#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1456
-https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
-
 
 
 
 # General
 
-#EXTINF:-1 tvg-id="0966" tvg-name="Bravo TV" group-title="General/Abierta", Bravo TV
+#EXTINF:-1 tvg-id="0966" tvg-name="Bravo TV" group-title="Argentina Abierta", Bravo TV
 https://unlimited1-us.dps.live/bravotv/bravotv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1909" tvg-name="Telefe" group-title="General/Abierta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png", Telefe
+#EXTINF:-1 tvg-id="1909" tvg-name="Telefe" group-title="Argentina Abierta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png", Telefe
 http://107.152.39.199:8030/hls/canal13.m3u8
 
-#EXTINF:-1 tvg-id="0939" tvg-name="Net TV" group-title="General/Abierta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png", Net TV
+#EXTINF:-1 tvg-id="0939" tvg-name="Net TV" group-title="Argentina Abierta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png", Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="0915" group-title="General/Abierta" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png", El Trece
+#EXTINF:-1 tvg-id="0915" group-title="Argentina Abierta" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png", El Trece
 #EXTVLCOPT:http-referrer=https://www.m3u8player.online/
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" group-title="General/Abierta" tvg-logo="https://files.catbox.moe/k3fp5s.png", El Nueve
+#EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" group-title="Argentina Abierta" tvg-logo="https://files.catbox.moe/k3fp5s.png", El Nueve
 http://107.152.39.199:8030/hls/canal7.m3u8
 
-#EXTINF:-1 tvg-id="0935" tvg-name="América TV" group-title="General/Abierta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/1933px-Logotipo_de_America_TV.svg.png", América TV
+#EXTINF:-1 tvg-id="0935" tvg-name="América TV" group-title="Argentina Abierta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/1933px-Logotipo_de_America_TV.svg.png", América TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
-#EXTINF:-1 tvg-id="0903" tvg-name="TV Pública" group-title="General/Abierta" tvg-logo="https://files.catbox.moe/3yz8zs.png", TV Publica
+#EXTINF:-1 tvg-id="0903" tvg-name="TV Pública" group-title="Argentina Abierta" tvg-logo="https://files.catbox.moe/3yz8zs.png", TV Publica
 https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="0919" tvg-name="Canal de la Ciudad" group-title="General/Abierta" tvg-logo="https://files.catbox.moe/ql9rbg.png", Canal de la Ciudad
+#EXTINF:-1 tvg-id="0919" tvg-name="Canal de la Ciudad" group-title="Argentina Abierta" tvg-logo="https://files.catbox.moe/ql9rbg.png", Canal de la Ciudad
 https://g4.proy-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
 
-#EXTINF:-1 tvg-id="0640" tvg-name="Unife TV" group-title="General/Abierta" tvg-logo="https://files.catbox.moe/gb2iih.png", Unife TV
+#EXTINF:-1 tvg-id="0640" tvg-name="Unife TV" group-title="Argentina Abierta" tvg-logo="https://files.catbox.moe/gb2iih.png", Unife TV
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 
 # Otros/Tematicos
@@ -889,7 +855,4 @@ https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Latina TV" group-title="Argentina Radios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Canal_Latina.png/800px-Canal_Latina.png", Latina TV
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
-
-
-
 
