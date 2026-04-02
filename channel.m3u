@@ -3,6 +3,11 @@
 
 
 ##### ARGENTINA RADIOS
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI999MDQ.png" group-title="Argentina Radios",99.9 Radio - 99.9 TV - Mar del Plata - Camaras en Vivo
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAMAR_D_99.9_99.9RADIO_
+
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIVORMDQ.png" group-title="Argentina Radios",Vorterix - 104.5 TV - Mar del Plata - Camaras en Vivo
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAMAR_D104.5_VORTERIX__
 
 #EXTINF:-1 tvg-id="" tvg-name="Radio La 100" group-title="Argentina Radios" tvg-logo="https://i.ibb.co/yFqTXRTC/CZJMM4-BJVRFANO4-VGMMYWSTEVE.webp", Radio La 100
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
@@ -332,12 +337,7 @@ http://ultra-premium-pro.xyz:8080/932350310tv/rt1brn/455
 
 
 
-
 ##### ARGENTINA INTERIOR 
-
-
-
-
 
 #EXTINF:-1 tvg-id="13MaxTelevision.ar" tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="Argentina Interior",13Max Television
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
@@ -355,10 +355,8 @@ https://tuvideoonline.com.ar:3393/live/antena91live.m3u8
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
 
-
 #EXTINF:-1 tvg-id="AVCHD.ar" tvg-logo="https://i.imgur.com/8CT4y1O.png" group-title="Argentina Interior",AVC HD
 https://ssh101.bozztv.com/ssh101/streamavc/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="AZMTV.ar" tvg-logo="https://i.imgur.com/irp42T9.png" group-title="Argentina Interior",AZM TV
 https://live.canalnueve.tv/canal.m3u8
@@ -557,10 +555,8 @@ https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
 
-
 #EXTINF:-1 tvg-id="CiudadTVResistencia.ar" tvg-logo="https://i.imgur.com/oL8SMTL.png" group-title="Argentina Interior",Ciudad TV Resistencia
 http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-id="CorrientesTV.ar" tvg-logo="https://i.imgur.com/7PBkvRp.png" group-title="Argentina Interior",Corrientes TV
@@ -627,7 +623,6 @@ https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
 https://ltocatamarca.github.io/ltotv.m3u8
 
 
-
 #EXTINF:-1 tvg-id="MileniumTV.ar" tvg-logo="https://i.imgur.com/dhaY9DH.png" group-title="Argentina Interior",Milenium TV
 https://stmv5.livecastv.com/milleniumtv/milleniumtv/playlist.m3u8
 
@@ -680,7 +675,6 @@ https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
 
 #EXTINF:-1 tvg-id="T5Satelital.ar" tvg-logo="https://i.imgur.com/Eu7rHtj.jpg" group-title="Argentina Interior",T5 Satelital
 https://tv.t5satelital.com/tvhls/streamcorrientes.m3u8
-
 
 
 #EXTINF:-1 tvg-id="Telecinco.ar" tvg-logo="https://i.imgur.com/ZDenyAE.png" group-title="Argentina Interior",Telecinco
@@ -754,15 +748,12 @@ http://srv1.zcast.com.ar/x24hd/x24hd/playlist.m3u8
 
 
 
-#EXTM3U
 #EXTINF:-1 tvg-id="5tv.ar@SD" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="Argentina Interior",5TV Corrientes (480p) [Not 24/7]
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
 
-
 #EXTINF:-1 tvg-id="AiredeSantaFe.ar@SD" tvg-logo="https://i.imgur.com/60vSWW0.png" group-title="Argentina Interior",Aire de Santa Fe (1080p)
 https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar@SD" tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="Argentina Interior",Argentinísima Satelital (540p)
@@ -856,8 +847,6 @@ https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
 
-
-
 #EXTINF:-1 tvg-id="ElTrece.ar@SD" tvg-logo="https://i.imgur.com/TrgBAdA.png" group-title="Argentina Interior",El Trece (1080p)
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
@@ -909,7 +898,6 @@ https://ola1.com.ar/tvp/index.m3u8
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 
 
-
 #EXTINF:-1 tvg-id="Uniteve.ar@SD" tvg-logo="https://pbs.twimg.com/profile_images/720276300888453120/a_SDOmBc_400x400.jpg" group-title="Undefined",Uniteve (720p) [Not 24/7]
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 #EXTINF:-1 tvg-id="UrbanMix.ar@SD" tvg-logo="https://tvomix.com/Logos/Urbanmix.png" group-title="Undefined",Urban Mix (720p)
@@ -922,7 +910,37 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/VVP0MGDRUILC8BDR6S0M/hls3/now
 
 ##### FIN ARGENTINA INTERIOR 
 
+##### CAMARAS EN VIVO
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",104 y 3 Norte - CamTV - Villa Gesell - Camaras en Vivo
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAM104Y3NORTE
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",104 y 3 Sur - CamTV - Villa Gesell - Camaras en Vivo
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAM104Y3SUR__
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",107 y 3 Norte - CamTV - Villa Gesell - Camaras en Vivo
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAM107Y3NORTE
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",107 y 3 Sur - CamTV - Villa Gesell - Camaras en Vivo
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAM107Y3SUR__
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",112 y Playa - CamTV - Villa Gesell - Camaras en Vivo
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAM112YPLAYA_
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",Acceso Ciudad Norte - CamTV - Villa Gesell - Camaras en Vivo
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAMACCESOCIUD
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",Acceso RP11 Norte - CamTV - Villa Gesell - Camaras en Vivo
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAMACCESORP11
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",Aeropuerto - CamTV - Villa Gesell - Camaras en Vivo
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAMAEROPUERTO
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",Bosque Historico - CamTV - Villa Gesell - Camaras en Vivo
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAMBOSQUEHIST
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",Buenos Aires y Playa - CamTV - Villa Gesell - Camaras en Vivo
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAMBUENOSAIRE
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",Faro Querandi - CamTV - Villa Gesell - Camaras en Vivo
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAMFAROQUERAN
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",Muelle - CamTV - Villa Gesell - Camaras en Vivo
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAMMUELLE____
 
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CRTUR.png" group-title="Camaras en Vivo",Centro I  Costanera - CamTV - Cdro Rivadavia - CH Chubut
+https://radiosargentina.com.ar/php/artvIP.php?id=ARCHCDRO____CAMCENTROICOS
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CRTUR.png" group-title="Camaras en Vivo",Centro II Costanera - CamTV - Cdro Rivadavia - CH Chubut
+https://radiosargentina.com.ar/php/artvIP.php?id=ARCHCDRO____CAMCENTROIICO
+#### FIN CAMARAS EN VIVO
 
 
 
