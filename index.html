@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PatitusTV Pro - TV Box Edition</title>
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+    <style>
+        :root { --bg: #000; --side: #111; --accent: #6366f1; --yt: #ff0000; --txt: #ccc; }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body { font-family: sans-serif; background: var(--bg); color: #fff; display: flex; height: 100vh; overflow: hidden; }
+        
+        /* Menú lateral */
+        aside { width: 200px; background: var(--side); display: flex; flex-direction: column; border-right: 1px solid #222; }
+        .logo { padding: 15px; color: var(--accent); font-weight: bold; text-align: center; border-bottom: 1px solid #222; }
+        #cats { flex: 1; overflow-y: auto; }
+        .cat-item { padding: 15px 10px; cursor: pointer; color: var(--txt); font-size: 14px; border-bottom: 1px solid #1a1a1a; }
+        .cat-item.active { background: var(--accent); color: #fff; }
+
+        /* Contenedor Principal */
+        main { flex: 1; display: flex; flex-direction: column; }
+        #grid { flex: 1; display: flex; flex-wrap: wrap; gap: 10px; padding: 15px; overflow-y: auto; align-content: flex-start; }
+        
+        /* Tarjetas de canales */
+        .card { background: #111; padding: 10px; text-align: center; border-radius: 4px; cursor: pointer; border: 1px solid #222; width: 120px; }
+        .card img { height: 40px; display: block; margin: 0 auto 5px; max-width: 100%; object-fit: contain; }
+        .card div { font-size: 10px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+        /* REPRODUCTOR PANTALLA COMPLETA */
+        #player { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: #000; z-index: 9999; display: none; }
+        #media-box { width: 100%; height: 100%; position: relative; }
+        video, iframe { width: 100%; height: 100%; border: none; position: absolute; top: 0; left: 0; }
+
+        /* Botón Cerrar Flotante (Importante para TV Box) */
+        .close-btn { position: absolute; top: 20px; right: 20px; background: rgba(255,0,0,0.8); color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; z-index: 10000; font-weight: bold; }
+    </style>
+</head>
+<body>
+
+<aside>
+    <div class="logo">PATITUS TV</div>
+    <div id="cats">
+        <div class="cat-item active" id="btn-yt" onclick="loadYoutube(this)">▶ YouTube</div>
+        <div class="cat-item" id="btn-all" onclick="loadMain(this)">📺 Canales TV</div>
+        <div id="dynamic-cats"></div>
+    </div>
+</aside>
+
+<main>
+    <div id="grid">Cargando...</div>
+</main>
+
+<div id="player">
+    <button class="close-btn" onclick="stop()">CERRAR</button>
+    <div id="media-box"></div>
+</div>
+
+<script>
+    var URL_M3U = 'https://raw.githubusercontent.com/patriciopujia-svg/PatitusTV/main/channel.m3u';
+    var URL_YT = 'https://raw.githubusercontent.com/patriciopujia-svg/PatitusTV/main/youtube.json';
+
+    var allChannels = [], currentList = [], hls = null;
+
+    window.onload = function() {
+        fetchM3U();
+        loadYoutube(document.getElementById('btn-yt'));
+    };
+
+    function fetchM3U() {
+        fetch(URL_M3U).then(function(r){ return r.text(); }).then(function(d){
+            allChannels = parseM3U(d);
+            renderCats();
+        });
+    }
+
+    function parseM3U(t) {
+        var lines = t.split('\n'), res = [], tmp = null;
+        for (var i = 0; i < lines.length; i++) {
+            var l = lines[i].trim();
+            if (l.indexOf('#EXTINF:') === 0) {
+                tmp = { n: l.split(',').pop(), g: l.match(/group-title="([^"]+)"/)?l.match(/group-title="([^"]+)"/)[1]:'Otros', l: l.match(/tvg-logo="([^"]+)"/)?l.match(/tvg-logo="([^"]+)"/)[1]:'' };
+            } else if (l.indexOf('http') === 0 && tmp) {
+                tmp.u = l; res.push(tmp); tmp = null;
+            }
+        }
+        return res;
+    }
+
+    function loadYoutube(el) {
+        setActive(el);
+        fetch(URL_YT).then(function(r){ return r.json(); }).then(function(data){
+            currentList = data.map(function(i){ return { n: i.name, u: i.url, l: i.logo || '', g: 'YouTube' }; });
+            drawGrid();
+        });
+    }
+
+    function loadMain(el) {
+        setActive(el);
+        currentList = allChannels;
+        drawGrid();
+    }
+
+    function drawGrid() {
+        var g = document.getElementById('grid'); g.innerHTML = '';
+        for (var i = 0; i < currentList.length; i++) {
+            (function(idx){
+                var c = currentList[idx];
+                var d = document.createElement('div');
+                d.className = 'card';
+                d.innerHTML = '<img src="'+c.l+'" onerror="this.src=\'https://via.placeholder.com/80?text=TV\'"><div>'+c.n+'</div>';
+                d.onclick = function() { playStream(c); };
+                g.appendChild(d);
+            })(i);
+        }
+    }
+
+    function playStream(ch) {
+        var p = document.getElementById('player');
+        var box = document.getElementById('media-box');
+        p.style.display = 'block';
+        box.innerHTML = '';
+        if (hls) { hls.destroy(); hls = null; }
+
+        var url = ch.u.trim();
+
+        // 1. SOLUCIÓN YOUTUBE PANTALLA COMPLETA
+        if (url.indexOf('youtube.com') !== -1 || url.indexOf('youtu.be') !== -1) {
+            var id = url.indexOf('v=') !== -1 ? url.split('v=')[1].split('&')[0] : url.split('/').pop();
+            // Usamos parámetros para forzar que ocupe todo el iframe y oculte controles innecesarios
+            box.innerHTML = '<iframe src="https://www.youtube.com/embed/' + id + '?autoplay=1&rel=0&showinfo=0&iv_load_policy=3" allow="autoplay; frameborder="0" allowfullscreen></iframe>';
+            return;
+        }
+
+        // 2. SOLUCIÓN CANALES TV (HLS PARA TV BOX)
+        var v = document.createElement('video');
+        v.controls = true; v.autoplay = true; 
+        box.appendChild(v);
+
+        if (Hls.isSupported()) {
+            hls = new Hls();
+            hls.loadSource(url);
+            hls.attachMedia(v);
+            hls.on(Hls.Events.MANIFEST_PARSED, function() { v.play(); });
+            
+            // Manejo de errores para canales que no cargan
+            hls.on(Hls.Events.ERROR, function(event, data) {
+                if (data.fatal) {
+                    console.log("Error fatal, intentando carga nativa...");
+                    v.src = url; // Intento nativo si HLS.js falla
+                }
+            });
+        } else {
+            v.src = url; // Carga directa para navegadores con soporte nativo
+        }
+    }
+
+    function stop() {
+        document.getElementById('player').style.display = 'none';
+        if (hls) { hls.destroy(); hls = null; }
+        document.getElementById('media-box').innerHTML = '';
+    }
+
+    function renderCats() {
+        var container = document.getElementById('dynamic-cats');
+        container.innerHTML = '';
+        var groups = [];
+        for(var i=0; i<allChannels.length; i++) {
+            if(groups.indexOf(allChannels[i].g) === -1) groups.push(allChannels[i].g);
+        }
+        groups.sort().forEach(function(g) {
+            var d = document.createElement('div');
+            d.className = 'cat-item'; d.innerText = "📁 " + g;
+            d.onclick = function() { 
+                setActive(d); 
+                currentList = allChannels.filter(function(x) { return x.g === g; }); 
+                drawGrid(); 
+            };
+            container.appendChild(d);
+        });
+    }
+
+    function setActive(el) {
+        var items = document.querySelectorAll('.cat-item');
+        for(var i=0; i<items.length; i++) items[i].classList.remove('active');
+        if(el) el.classList.add('active');
+    }
+</script>
+</body>
+</html>
