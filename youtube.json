@@ -8,5 +8,33 @@
     "name": "A24",
     "url": "https://www.youtube.com/watch?v=ArKbAx1K-2U",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png"
-  }
+  },
+  
+  {
+    "name": "Cronica",
+    "url": "https://www.youtube.com/watch?v=JC7f3EUDaqw",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png"
+  } , 
+  
+  {
+    "name": "C5N",
+    "url": "https://www.youtube.com/watch?v=SF06Qy1Ct6Y",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png"
+  
+  } ,
+  
+  {
+    "name": "Canal 26",
+    "url": "https://www.youtube.com/watch?v=2e-WbFXXbvQ",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png"
+  
+  } ,  
+  
+    {
+    "name": "Canal 9",
+    "url": "https://www.youtube.com/watch?v=63FF72LFxAw",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png"
+  
+  } 
+ 
 ]
