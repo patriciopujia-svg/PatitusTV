@@ -1,24 +1,24 @@
 #EXTM3U
 
 ##### TENNIS
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",T2 Tennis Channel (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Tennis",T2 Tennis Channel (1080p)
 https://ttc-tennischannelus-firetv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Tennis Channel (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Tennis",Tennis Channel (720p)
 https://jmp2.uk/plu-6870c97b759366af055fe371.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Tennis Channel (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Tennis",Tennis Channel (720p)
 https://jmp2.uk/plu-6870c9ca759366af055fe891.m3u8
-#EXTINF:-1 tvg-id="TennisChannel.us@SD" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Sports",Tennis Channel (1080p)
+#EXTINF:-1 tvg-id="TennisChannel.us@SD" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Tennis",Tennis Channel (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Tennis Channel 2 (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Tennis",Tennis Channel 2 (1080p) [Geo-blocked]
 https://pb-vuh0zokcxo4al.akamaized.net/T2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Tennis Channel Germany (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Tennis",Tennis Channel Germany (720p)
 https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Tennis+ (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Tennis",Tennis+ (1080p)
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TennisChannel.us@Plus2" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Sports",TennisChannel 2 (720p)
+#EXTINF:-1 tvg-id="TennisChannel.us@Plus2" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Tennis",TennisChannel 2 (720p)
 https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Tensions TV (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Tennis",Tensions TV (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9db01cea-0af6-4382-b2c6-e23525f6640d/manifest.m3u8
 #EXTINF:-1 tvg-id="TERRA.ru@SD" tvg-logo="https://i.imgur.com/ZxUjCpF.png" group-title="Documentary",Terra HD (720p)
 http://31.148.48.15/Terra_HD/index.m3u8
@@ -26,7 +26,7 @@ http://31.148.48.15/Terra_HD/index.m3u8
 ##### FIN TENNIS
 
 ##### DEPORTES
-#EXTINF:-1 tvg-id="TyCSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Sports",TyC Sports (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TyCSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Deportes",TyC Sports (1080p) [Geo-blocked]
 https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
 
 #EXTINF:-1 tvg-id="CnArDeportes.ar" tvg-logo="https://i.imgur.com/07ki2df.png" group-title="Deportes",CnAr Deportes
@@ -845,18 +845,6 @@ https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 
 # Otros/Tematicos
 
-#EXTINF:-1 tvg-id="0936" tvg-name="Ciudad Magazine" group-title="Temáticos Argentinos", Ciudad Magazine
-https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-id="0907" tvg-name="Canal 9 Multivisión" group-title="Temáticos Argentinos" tvg-logo="https://files.catbox.moe/iqx1h4.png",Canal 9 Multivisión
-https://panel.host-live.com:19360/8250/8250.m3u8
-
-#EXTINF:-1 tvg-id="0912" tvg-name="Argentinisima Satelital" group-title="Argentina Interior", Argentinisima
-https://stream1.sersat.com/hls/argentinisima.m3u8
-
-#EXTINF:-1 tvg-id="0534" tvg-name="Canal de la Música" group-title="Temáticos Argentinos", Canal de la Música
-https://g1.mc-slo.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-id="0937" tvg-name="Telemax" group-title="Argentina Radios", Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
