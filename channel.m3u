@@ -1,37 +1,49 @@
 
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="Argentina Noticias" user-agent="iPhone",A24
+#EXTVLCOPT:http-user-agent=iPhone
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 
-##### ARGENTINA RADIOS
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI999MDQ.png" group-title="Argentina Radios",99.9 Radio - 99.9 TV - Mar del Plata - Camaras en Vivo
-https://radiosargentina.com.ar/php/artvDI.php?id=ARBAMAR_D_99.9_99.9RADIO_
 
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIVORMDQ.png" group-title="Argentina Radios",Vorterix - 104.5 TV - Mar del Plata - Camaras en Vivo
-https://radiosargentina.com.ar/php/artvDI.php?id=ARBAMAR_D104.5_VORTERIX__
+#EXTINF:-1 tvg-id="A24.ar@SD" tvg-logo="https://i.imgur.com/LnXQkIU.png" http-user-agent="Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36" group-title="Argentina Noticias",A24 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 
-#EXTINF:-1 tvg-id="" tvg-name="Radio La 100" group-title="Argentina Radios" tvg-logo="https://i.ibb.co/yFqTXRTC/CZJMM4-BJVRFANO4-VGMMYWSTEVE.webp", Radio La 100
-https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="Argentina Noticias",TN
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Latina TV" group-title="Argentina Radios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Canal_Latina.png/800px-Canal_Latina.png", Latina TV
-https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar@SD" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="Argentina Noticias",24/7 Canal de Noticias
+https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 
-#EXTINF:-1 tvg-id="Vorterix.ar" tvg-logo="https://i.imgur.com/RWL10TG.png" group-title="Argentina Radios",Vorterix
-https://ythls.armelin.one/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
+#EXTINF:-1 tvg-id="Canal26.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png" group-title="Argentina Noticias",Canal 26 (1080p)
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
-#EXTINF:-1 tvg-id="MetroTV.ar@SD" tvg-logo="https://i.imgur.com/7f7M7zl.png" group-title="Argentina Radios",Metro TV (720p)
-https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
-#EXTINF:-1 tvg-id="RadioYguazuTV.ar@SD" tvg-logo="https://i.imgur.com/kVi0ICm.png" group-title="Argentina Radios",Radio Yguazú TV (480p)
-https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
+#EXTINF:-1 tvg-id="0905" tvg-name="TN 2" group-title="Argentina Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png", TN
+#EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
 
-#EXTINF:-1 tvg-id="PowerMaxRadioTV.ar" tvg-logo="https://i.ibb.co/qgZLYDj/channels4-profile-6.jpg" group-title="Argentina Radios",Power Max Radio TV
-https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
+#EXTINF:-1 tvg-id="0934" tvg-name="Crónica TV" group-title="Argentina Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png",Crónica TV
+https://g1.vxral-hor.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/playlist.m3u8?sense=true
 
-#EXTINF:-1 tvg-id="RadioYguazuTV.ar" tvg-logo="https://i.imgur.com/kVi0ICm.png" group-title="Argentina Radios",Radio Yguazu TV
-https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
+	
+#EXTINF:-1 tvg-id="0904" tvg-name="LN+" group-title="Argentina Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/La-Nacion-Mas-Logo.svg/2560px-La-Nacion-Mas-Logo.svg.png",LN+
+https://radiosargentina.com.ar/php/artvYT.php?id=ARCD_CABA__25.3LN________
 
-#EXTINF:-1 tvg-id="PowerMaxRadioTV.ar@SD" tvg-logo="https://i.ibb.co/qgZLYDj/channels4-profile-6.jpg" group-title="Argentina Radios",Power Max Radio TV (720p)
-https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
+#EXTINF:-1 tvg-id="0905" tvg-name="TN" group-title="Argentina Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png", TN
+#EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
 
-#EXTINF:-1 tvg-id="Am1020.ar" tvg-logo="https://i.imgur.com/nEVKVZK.png" group-title="Argentina Radios",Am1020
-http://51.79.83.93:9998/live/am1020/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
 
-##### FIN ARGENTINA RADIOS
+#EXTINF:-1 tvg-id="0934" tvg-name="Crónica TV" group-title="Argentina Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png", Crónica TV
+https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
+
+#EXTINF:-1 tvg-id="0923" tvg-name="24/7 Noticias" group-title="Argentina Noticias" tvg-logo"https://files.catbox.moe/supqza.png", 24/7 Noticias Neuquen
+https://panel.host-live.com:19360/cn247tv/Source.m3u8
+
+#EXTINF:-1 tvg-id="CanalE.ar@SD" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" group-title="Argentina Noticias",Canal E (720p)
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalE.ar" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" group-title="Argentina Noticias",Canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
