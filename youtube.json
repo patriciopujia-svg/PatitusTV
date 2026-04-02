@@ -46,13 +46,13 @@
      {
     "name": "AR12",
     "url": "https://www.youtube.com/watch?v=JrmCaXL5GZs",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png"  
+    "logo": ""  
   } ,
 
      {
     "name": "Infobae",
     "url": "https://www.youtube.com/watch?v=Sd5mMhFgAlQ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png"  
+    "logo": ""  
   } ,  
   
        {
@@ -65,13 +65,13 @@
          {
     "name": "Olga",
     "url": "https://www.youtube.com/watch?v=W2K1QIOpXoA",
-    "logo": "https://i.imgur.com/Gj1kqH5.png"  
+    "logo": ""  
   } , 
   
            {
     "name": "La 100",
     "url": "https://www.youtube.com/watch?v=yuY8YfQiIkQ",
-    "logo": "https://i.imgur.com/Gj1kqH5.png"  
+    "logo": ""  
   } , 
   
        {
@@ -79,6 +79,9 @@
     "url": "https://www.youtube.com/watch?v=_8J4lmgKqC8",
     "logo": "https://radiosargentina.com.ar/png/VIVORMDQ.png"  
   } 
+  
+  
+  
   
   
   
