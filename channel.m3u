@@ -8,11 +8,13 @@
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 
 
-#EXTINF:-1 tvg-id="A24.ar@SD" tvg-logo="https://i.imgur.com/LnXQkIU.png" http-user-agent="Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36" group-title="Argentina Noticias",A24 (720p)
+#EXTINF:-1 tvg-id="A24.ar@SD" tvg-logo="https://i.imgur.com/LnXQkIU.png" http-user-agent="Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36" 
+group-title="Argentina Noticias",A24 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 
-#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="Argentina Noticias",TN
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://i.imgur.com/vFwPhPS.png"
+ group-title="Argentina Noticias",TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
 #EXTINF:-1 tvg-id="247CanaldeNoticias.ar@SD" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="Argentina Noticias",24/7 Canal de Noticias
@@ -58,6 +60,7 @@ https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 #### FIN ARGENTINA NOTICIAS
 
 
+
 ##### ARGENTINA RADIOS
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI999MDQ.png" group-title="Argentina Radios",99.9 Radio - 99.9 TV - Mar del Plata - Camaras en Vivo
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAMAR_D_99.9_99.9RADIO_
@@ -93,6 +96,7 @@ https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
 http://51.79.83.93:9998/live/am1020/playlist.m3u8
 
 ##### FIN ARGENTINA RADIOS
+
 
 
 ##### Argentina Radios 2
@@ -912,6 +916,8 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/VVP0MGDRUILC8BDR6S0M/hls3/now
 
 ##### FIN ARGENTINA INTERIOR 
 
+
+
 ##### CAMARAS EN VIVO
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",104 y 3 Norte - CamTV - Villa Gesell - Camaras en Vivo
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAM104Y3NORTE
@@ -951,12 +957,14 @@ https://radiosargentina.com.ar/php/artvIP.php?id=ARCHCDRO____CAMCENTROIICO
 
 
 
-# Internacional
+#### INTERNACIONAL
 #EXTINF:-1 tvg-id="0205" tvg-name="DW" group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/2560px-Deutsche_Welle_symbol_2012.svg.png",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 
 #EXTINF:-1 tvg-id="0213" tvg-name="Euronews" group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/2560px-Euronews_2016_logo.svg.png",Euronews
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d59b7cbef25000728221clivestitch/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=&profilesFromStream=true
+
+
 
 #EXTINF:-1 tvg-id="0206" tvg-name="France 24 Español" group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",France 24 Español
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
@@ -967,7 +975,7 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="0204" tvg-name="TeleSUR" group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TeleSUR.png",TeleSUR
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 
-
+#### INTERNACIONAL
 
 
 
