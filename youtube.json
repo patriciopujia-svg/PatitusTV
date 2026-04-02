@@ -1,20 +1,12 @@
 [
   {
-    "title": "TN",
-    "videoId": "cb12KmMMDJA",
-    "logo": "https://es.wikipedia.org/wiki/Archivo:TN_todo_noticias_logo.svg",
-    "group": "Argentina Noticias"
+    "name": "YouTube En Vivo 1",
+    "url": "https://www.youtube.com/watch?v=cb12KmMMDJA",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png"
   },
   {
-    "title": "A24",
-    "videoId": "ArKbAx1K-2U",
-    "logo": "https://ejemplo.com/logo2.png",
-    "group": "Argentina Noticias"
-  }
-    {
-    "title": "Canal 26",
-    "videoId": "2e-WbFXXbvQ",
-    "logo": "https://ejemplo.com/logo2.png",
-    "group": "Argentina Noticias"
+    "name": "YouTube En Vivo 2",
+    "url": "https://www.youtube.com/watch?v=ArKbAx1K-2U",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png"
   }
 ]
