@@ -306,8 +306,6 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9d
 #EXTINF:-1 tvg-id="TyCSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Deportes",TyC Sports (1080p) [Geo-blocked]
 https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
 
-#EXTINF:-1 tvg-id="TyCSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Deportes",TyC Sports (1080p) [Geo-blocked]
-https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
 
 
 #EXTINF:-1 tvg-id="CnArDeportes.ar" tvg-logo="https://i.imgur.com/07ki2df.png" group-title="Deportes",CnAr Deportes
