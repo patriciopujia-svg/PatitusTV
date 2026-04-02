@@ -1,3 +1,4 @@
+
 [
   {
     "name": "TN",
@@ -33,20 +34,40 @@
     "name": "Canal 9",
     "url": "https://www.youtube.com/watch?v=63FF72LFxAw",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png"  
-  } ,
+  } , 
  
- 
+  
      {
+    "name": "Telefe",
+    "url": "https://www.youtube.com/watch?v=XhAYcYpPzTc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png"  
+  }   , 
+  
+     {
+    "name": "AR12",
+    "url": "https://www.youtube.com/watch?v=JrmCaXL5GZs",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png"  
+  } ,
+
+     {
+    "name": "Infobae",
+    "url": "https://www.youtube.com/watch?v=Sd5mMhFgAlQ",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png"  
+  } ,  
+  
+       {
+    "name": "LN+",
+    "url": "https://www.youtube.com/watch?v=DVZ2rJQb_0g",
+    "logo": "https://i.imgur.com/Gj1kqH5.png"  
+  } , 
+  
+       {
     "name": "Vorterix",
     "url": "https://www.youtube.com/watch?v=_8J4lmgKqC8",
     "logo": "https://radiosargentina.com.ar/png/VIVORMDQ.png"  
-  } ,
+  } 
   
-     {
-    "name": "Telefe Noticias",
-    "url": "https://www.youtube.com/watch?v=XhAYcYpPzTc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png"  
-  }    
+  
   
  
 ]
