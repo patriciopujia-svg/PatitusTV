@@ -4,6 +4,7 @@
     "url": "https://www.youtube.com/watch?v=cb12KmMMDJA",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/TN_todo_noticias_logo.svg"
   },
+  
   {
     "name": "A24",
     "url": "https://www.youtube.com/watch?v=ArKbAx1K-2U",
@@ -13,28 +14,39 @@
   {
     "name": "Cronica",
     "url": "https://www.youtube.com/watch?v=JC7f3EUDaqw",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png"
   } , 
   
   {
     "name": "C5N",
     "url": "https://www.youtube.com/watch?v=SF06Qy1Ct6Y",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png"
-  
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png"  
   } ,
   
   {
     "name": "Canal 26",
     "url": "https://www.youtube.com/watch?v=2e-WbFXXbvQ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png"
-  
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png"  
   } ,  
   
     {
     "name": "Canal 9",
     "url": "https://www.youtube.com/watch?v=63FF72LFxAw",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png"  
+  } ,
+ 
+ 
+     {
+    "name": "Vorterix",
+    "url": "https://www.youtube.com/watch?v=_8J4lmgKqC8",
+    "logo": "https://radiosargentina.com.ar/png/VIVORMDQ.png"  
+  } ,
   
-  } 
+     {
+    "name": "Telefe Noticias",
+    "url": "https://www.youtube.com/watch?v=XhAYcYpPzTc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png"  
+  }    
+  
  
 ]
