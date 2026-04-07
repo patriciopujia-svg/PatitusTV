@@ -1,58 +1,79 @@
 #EXTM3U
 
 
-##### ARGENTINA NOTICIAS
 
-#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="Argentina Noticias" user-agent="iPhone",A24
-#EXTVLCOPT:http-user-agent=iPhone
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+##### ARGENTINA 
+
+#EXTINF:-1 tvg-id="1909" tvg-name="Telefe" group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png", Telefe
+http://107.152.39.199:8030/hls/canal13.m3u8
 
 
-#EXTINF:-1 tvg-id="A24.ar@SD" tvg-logo="https://i.imgur.com/LnXQkIU.png" http-user-agent="Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36" group-title="Argentina Noticias",A24 (720p)
+#EXTINF:-1 tvg-id="0915" group-title="Argentina" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png", El Trece
+#EXTVLCOPT:http-referrer=https://www.m3u8player.online/
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_ba_logo.png", El Nueve
+http://107.152.39.199:8030/hls/canal7.m3u8
+
+
+#EXTINF:-1 tvg-id="0903" tvg-name="TV Pública" group-title="Argentina" tvg-logo="https://i.imgur.com/XGrkzN3.png", TV Publica
+https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="Argentina",NET TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="AmericaTV.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/500px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" http-user-agent="Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36" group-title="Argentina",America TV (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
+#EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Argentina",Ciudad Magazine
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+
+
+
+##### Noticias
+
+
+#EXTINF:-1 tvg-id="A24.ar@SD" tvg-logo="https://i.imgur.com/LnXQkIU.png" http-user-agent="Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36" group-title="Argentina",A24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 
-#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="Argentina Noticias",TN
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-
-#EXTINF:-1 tvg-id="247CanaldeNoticias.ar@SD" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="Argentina Noticias",24/7 Canal de Noticias
-https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
-
-#EXTINF:-1 tvg-id="Canal26.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png" group-title="Argentina Noticias",Canal 26 (1080p)
+#EXTINF:-1 tvg-id="Canal26.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png" group-title="Argentina",Canal 26 (1080p)
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="Argentina",TN (1)
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
-#EXTINF:-1 tvg-id="0905" tvg-name="TN 2" group-title="Argentina Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png", TN
+#EXTINF:-1 tvg-id="0905" tvg-name="TN" group-title="Argentina" tvg-logo="https://i.imgur.com/vFwPhPS.png", TN (2)
+#EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
+
+#EXTINF:-1 tvg-id="0905" tvg-name="TN 2" group-title="Argentina" tvg-logo="https://i.imgur.com/vFwPhPS.png", TN (3)
 #EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
 
-#EXTINF:-1 tvg-id="0934" tvg-name="Crónica TV" group-title="Argentina Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png",Crónica TV
-https://g1.vxral-hor.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/playlist.m3u8?sense=true
 
-	
-#EXTINF:-1 tvg-id="0904" tvg-name="LN+" group-title="Argentina Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/La-Nacion-Mas-Logo.svg/2560px-La-Nacion-Mas-Logo.svg.png",LN+
+
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar@SD" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="Argentina",24/7 Canal de Noticias
+https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
+
+
+#EXTINF:-1 tvg-id="0904" tvg-name="LN+" group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/La-Nacion-Mas-Logo.svg/2560px-La-Nacion-Mas-Logo.svg.png",LN+
 https://radiosargentina.com.ar/php/artvYT.php?id=ARCD_CABA__25.3LN________
 
-#EXTINF:-1 tvg-id="0905" tvg-name="TN" group-title="Argentina Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png", TN
-#EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
 
-#EXTINF:-1 tvg-id="0934" tvg-name="Crónica TV" group-title="Argentina Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png", Crónica TV
+#EXTINF:-1 tvg-id="0934" tvg-name="Crónica TV" group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png", Crónica TV
 https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 
-#EXTINF:-1 tvg-id="0923" tvg-name="24/7 Noticias" group-title="Argentina Noticias" tvg-logo"https://files.catbox.moe/supqza.png", 24/7 Noticias Neuquen
-https://panel.host-live.com:19360/cn247tv/Source.m3u8
 
-#EXTINF:-1 tvg-id="CanalE.ar@SD" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" group-title="Argentina Noticias",Canal E (720p)
+#EXTINF:-1 tvg-id="CanalE.ar" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" group-title="Argentina",Canal E
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CanalE.ar" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" group-title="Argentina Noticias",Canal E
-https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
-
-#### FIN ARGENTINA NOTICIAS
+#### FIN ARGENTINA 
 
 
 
@@ -172,40 +193,6 @@ https://videostream.shockmedia.com.ar:19360/rbdradio/rbdradio.m3u8
 
 
 
-
-
-
-
-##### ARGENTINA ABIERTA
-
-#EXTINF:-1 tvg-id="1909" tvg-name="Telefe" group-title="Argentina Abierta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png", Telefe
-http://107.152.39.199:8030/hls/canal13.m3u8
-
-
-#EXTINF:-1 tvg-id="0915" group-title="Argentina Abierta" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png", El Trece
-#EXTVLCOPT:http-referrer=https://www.m3u8player.online/
-https://livetrx01.vodgc.net/eltrecetv/index.m3u8
-
-#EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" group-title="Argentina Abierta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_ba_logo.png", El Nueve
-http://107.152.39.199:8030/hls/canal7.m3u8
-
-
-#EXTINF:-1 tvg-id="0903" tvg-name="TV Pública" group-title="Argentina Abierta" tvg-logo="https://i.imgur.com/XGrkzN3.png", TV Publica
-https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="Argentina Abierta",NET TV
-https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="AmericaTV.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/500px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" http-user-agent="Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36" group-title="Argentina Abierta",America TV (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-
-#EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Argentina Abierta",Ciudad Magazine
-https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-##### FIN ARGENTINA ABIERTA
 
 
 
