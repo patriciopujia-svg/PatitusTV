@@ -56,7 +56,6 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
 
 
-
 #EXTINF:-1 tvg-id="247CanaldeNoticias.ar@SD" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="Argentina",24/7 Canal de Noticias
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 
@@ -74,6 +73,11 @@ https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
 #### FIN ARGENTINA 
+
+
+
+
+
 
 
 
@@ -199,64 +203,6 @@ https://videostream.shockmedia.com.ar:19360/rbdradio/rbdradio.m3u8
 
 
 
-##### ARGENTINA ABIERTA 2
-
-#EXTINF:-1 tvg-id="0966" tvg-name="Bravo TV" group-title="Argentina Abierta 2", Bravo TV
-https://unlimited1-us.dps.live/bravotv/bravotv.smil/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="0919" tvg-name="Canal de la Ciudad" group-title="Argentina Abierta 2" tvg-logo="https://files.catbox.moe/ql9rbg.png", Canal de la Ciudad
-https://g4.proy-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
-
-#EXTINF:-1 tvg-id="0640" tvg-name="Unife TV" group-title="Argentina Abierta 2" tvg-logo="https://files.catbox.moe/gb2iih.png", Unife TV
-https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
-
-#EXTINF:-1 tvg-id="TVUniversidad.ar" tvg-logo="https://i.imgur.com/0MXsQ25.png" group-title="Argentina Abierta 2",TV Universidad
-https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
-
-#EXTINF:-1 tvg-id="TVUniversidad.ar@SD" tvg-logo="https://i.imgur.com/0MXsQ25.png" group-title="Argentina Abierta 2",TV Universidad
-https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
-
-#EXTINF:-1 tvg-id="Canal10MardelPlata.ar" tvg-logo="https://i.imgur.com/bq29sfG.png" group-title="Argentina Abierta 2" user-agent="iPhone",Canal 10 Mar del Plata
-#EXTVLCOPT:http-user-agent=iPhone
-https://g5.mc-slo.transport.edge-access.net/a15/ngrp:canal10mdq-100044_all/Playlist.m3u8
-
-#EXTINF:-1 tvg-id="CosmosTV.ar" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Argentina Abierta 2",Cosmos TV
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-
-#EXTINF:-1 tvg-id="CrossingCanalIPTV.ar" tvg-logo="https://i.imgur.com/iNJu7Fu.png" group-title="Argentina Abierta 2",Crossing Canal IPTV
-https://vivo.solumedia.com:19360/crossing/crossing.m3u8
-
-#EXTINF:-1 tvg-id="MalbecPlay.ar" tvg-logo="https://i.ibb.co/Wy3Mz9C/MP.png" group-title="Argentina Abierta 2",Malbec Play
-https://streamlov.alsolnet.com/malbecplay/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MaximaTV.ar" tvg-logo="https://i.ibb.co/NmwTVkX/Screenshot-20230715-163842.jpg" group-title="Argentina Abierta 2",Maxima TV
-https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
-
-#EXTINF:-1 tvg-id="MetroTV.ar" tvg-logo="https://i.imgur.com/7f7M7zl.png" group-title="Argentina Abierta 2",Metro TV
-https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
-
-#EXTINF:-1 tvg-id="PlayTelevision.ar" tvg-logo="https://i.ibb.co/nR85vvb/2021-01-03.jpg" group-title="Argentina Abierta 2",Play Television
-https://vivo.solumedia.com:19360/playtv/playtv.m3u8
-
-
-#EXTINF:-1 tvg-id="RetroMagico.ar" tvg-logo="https://i.imgur.com/jh1VknJ.png" group-title="Argentina Abierta 2",Retro Magico
-https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
-
-#EXTINF:-1 tvg-id="VariedTV.ar" tvg-logo="https://i.ibb.co/nDdGrQn/LOGO-ID-VARIEDTV-WEB.png" group-title="Argentina Abierta 2",VariedTV
-https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="AventurasTV.ar" tvg-logo="https://i.imgur.com/qt6g1wi.png" group-title="Argentina Abierta 2",Aventuras TV
-https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="0937" tvg-name="Telemax" group-title="Argentina Abierta 2", Telemax
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
-
-
-##### ARGENTINA ABIERTA 2
-
-
 
 
 ##### TENNIS
@@ -332,6 +278,60 @@ http://ultra-premium-pro.xyz:8080/932350310tv/rt1brn/542
 
 
 ##### ARGENTINA INTERIOR 
+
+
+#EXTINF:-1 tvg-id="0966" tvg-name="Bravo TV" group-title="Argentina Interior"", Bravo TV
+https://unlimited1-us.dps.live/bravotv/bravotv.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="0919" tvg-name="Canal de la Ciudad" group-title="Argentina Interior"" tvg-logo="https://files.catbox.moe/ql9rbg.png", Canal de la Ciudad
+https://g4.proy-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
+
+#EXTINF:-1 tvg-id="0640" tvg-name="Unife TV" group-title="Argentina Interior"" tvg-logo="https://files.catbox.moe/gb2iih.png", Unife TV
+https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
+
+#EXTINF:-1 tvg-id="TVUniversidad.ar" tvg-logo="https://i.imgur.com/0MXsQ25.png" group-title="Argentina Interior"",TV Universidad
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+
+#EXTINF:-1 tvg-id="TVUniversidad.ar@SD" tvg-logo="https://i.imgur.com/0MXsQ25.png" group-title="Argentina Interior"",TV Universidad
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+
+#EXTINF:-1 tvg-id="Canal10MardelPlata.ar" tvg-logo="https://i.imgur.com/bq29sfG.png" group-title="Argentina Interior"" user-agent="iPhone",Canal 10 Mar del Plata
+#EXTVLCOPT:http-user-agent=iPhone
+https://g5.mc-slo.transport.edge-access.net/a15/ngrp:canal10mdq-100044_all/Playlist.m3u8
+
+#EXTINF:-1 tvg-id="CosmosTV.ar" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Argentina Interior"",Cosmos TV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+
+#EXTINF:-1 tvg-id="CrossingCanalIPTV.ar" tvg-logo="https://i.imgur.com/iNJu7Fu.png" group-title="Argentina Interior"",Crossing Canal IPTV
+https://vivo.solumedia.com:19360/crossing/crossing.m3u8
+
+#EXTINF:-1 tvg-id="MalbecPlay.ar" tvg-logo="https://i.ibb.co/Wy3Mz9C/MP.png" group-title="Argentina Interior"",Malbec Play
+https://streamlov.alsolnet.com/malbecplay/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MaximaTV.ar" tvg-logo="https://i.ibb.co/NmwTVkX/Screenshot-20230715-163842.jpg" group-title="Argentina Interior"",Maxima TV
+https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
+
+#EXTINF:-1 tvg-id="MetroTV.ar" tvg-logo="https://i.imgur.com/7f7M7zl.png" group-title="Argentina Interior"",Metro TV
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+
+#EXTINF:-1 tvg-id="PlayTelevision.ar" tvg-logo="https://i.ibb.co/nR85vvb/2021-01-03.jpg" group-title="Argentina Interior"",Play Television
+https://vivo.solumedia.com:19360/playtv/playtv.m3u8
+
+
+#EXTINF:-1 tvg-id="RetroMagico.ar" tvg-logo="https://i.imgur.com/jh1VknJ.png" group-title="Argentina Interior"",Retro Magico
+https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
+
+#EXTINF:-1 tvg-id="VariedTV.ar" tvg-logo="https://i.ibb.co/nDdGrQn/LOGO-ID-VARIEDTV-WEB.png" group-title="Argentina Interior"",VariedTV
+https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="AventurasTV.ar" tvg-logo="https://i.imgur.com/qt6g1wi.png" group-title="Argentina Interior"",Aventuras TV
+https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="0937" tvg-name="Telemax" group-title="Argentina Interior"", Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+
 
 #EXTINF:-1 tvg-id="13MaxTelevision.ar" tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="Argentina Interior",13Max Television
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
