@@ -1,26 +1,20 @@
 #EXTM3U
 ##### ARGENTINA 
 
-#EXTINF:-1 tvg-id="1909" tvg-name="Telefe" group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png", Telefe :)
+#EXTINF:-1 tvg-id="1909" tvg-name="Telefe" group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png", Telefe
 http://107.152.39.199:8030/hls/canal13.m3u8
 
 
-#EXTINF:-1 tvg-id="0915" group-title="Argentina" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png", El Trece :)
+#EXTINF:-1 tvg-id="0915" group-title="Argentina" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png", El Trece
 #EXTVLCOPT:http-referrer=https://www.m3u8player.online/
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" group-title="Argentina" tvg-logo="https://i.imgur.com/EtcVSm4.png", El Nueve :)
+#EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" group-title="Argentina" tvg-logo="https://i.imgur.com/EtcVSm4.png", El Nueve
 http://107.152.39.199:8030/hls/canal7.m3u8
 
 
 #EXTINF:-1 tvg-id="0903" tvg-name="TV Pública" group-title="Argentina" tvg-logo="https://i.imgur.com/XGrkzN3.png", TV Publica :(
 https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="AmericaTV.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/500px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" http-user-agent="Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36" group-title="Argentina",America TV :(
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 
 #EXTINF:-1 tvg-id="AmericaTV.ar@SD" tvg-name="AmericaTV" group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/500px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",America TV :(
@@ -37,11 +31,11 @@ https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.
 #EXTINF:-1 tvg-id="0222" tvg-name="A24" group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/A24_%282025%29.svg/3840px-A24_%282025%29.svg.png", A24 :(
 https://g2.mc-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
-#EXTINF:-1 tvg-id="Canal26.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png" group-title="Argentina",Canal 26 :)
+#EXTINF:-1 tvg-id="Canal26.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png" group-title="Argentina",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 
-#EXTINF:-1 tvg-id="0905" tvg-name="TN 2" group-title="Argentina" tvg-logo="https://i.imgur.com/vFwPhPS.png", TN :)
+#EXTINF:-1 tvg-id="0905" tvg-name="TN 2" group-title="Argentina" tvg-logo="https://i.imgur.com/vFwPhPS.png", TN
 #EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
@@ -57,27 +51,27 @@ https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_
 
 
 
-#EXTINF:-1 tvg-id="C5N.ar@SD" tvg-logo="https://i.imgur.com/5ZNZYjO.png" group-title="Argentina",C5N :)
+#EXTINF:-1 tvg-id="C5N.ar@SD" tvg-logo="https://i.imgur.com/5ZNZYjO.png" group-title="Argentina",C5N
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/c5n_480.m3u8
 
-#EXTINF:-1 tvg-id="247CanaldeNoticias.ar@SD" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="Argentina",24/7 Canal de Noticias :)
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar@SD" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="Argentina",24/7 Canal de Noticias
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 
 
-#EXTINF:-1 tvg-id="CanalE.ar" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" group-title="Argentina",Canal E :)
+#EXTINF:-1 tvg-id="CanalE.ar" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" group-title="Argentina",Canal E
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="Argentina",NET TV :)
+#EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="Argentina",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Argentina",Ciudad Magazine :)
+#EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Argentina",Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
-#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar@SD" tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="Argentina",Argentinísima Satelital :)
+#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar@SD" tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="Argentina",Argentinísima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
 
-#EXTINF:-1 tvg-id="Encuentro.ar@SD" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="Argentina",Encuentro :)
+#EXTINF:-1 tvg-id="Encuentro.ar@SD" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="Argentina",Encuentro
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-19.playlist.m3u8
 
 #### FIN ARGENTINA 
@@ -916,7 +910,7 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/VVP0MGDRUILC8BDR6S0M/hls3/now
 
 
 ##### CAMARAS EN VIVO
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",104 y 3 Norte - CamTV - Villa Gesell - Camaras en Vivo
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",104 y 3 Norte - CamTV -  - Camaras en Vivo
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAM104Y3NORTE
 
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",104 y 3 Sur - CamTV - Villa Gesell - Camaras en Vivo
@@ -1671,16 +1665,18 @@ http://arcast.net:1935/mp/mp/playlist.m3u8
 ##### Posibles Repetidos"
 
 
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DVZ2rJQb_0g/hqdefault.jpg" group-title="YouTube",Canal YouTube
+
+
+
+youtube
+
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DVZ2rJQb_0g/hqdefault.jpg" group-title="YouTube",LN+
 https://www.youtube.com/watch?v=DVZ2rJQb_0g
 
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/cb12KmMMDJA/hqdefault.jpg" group-title="YouTube",Canal YouTube
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/cb12KmMMDJA/hqdefault.jpg" group-title="YouTube",TN
 https://www.youtube.com/watch?v=cb12KmMMDJA
+
+
 
 #EXTINF:-1 tvg-id="youtube" tvg-name="Canal YouTube" tvg-logo="https://img.youtube.com/vi/DVZ2rJQb_0g/hqdefault.jpg" group-title="YouTube",Canal YouTube
 https://www.youtube.com/watch?v=DVZ2rJQb_0g
-
-
-
-
-
