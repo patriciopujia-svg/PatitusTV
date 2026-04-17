@@ -44,14 +44,15 @@ https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
 #EXTINF:-1 tvg-id="0904" tvg-name="LN+" group-title="Argentina" tvg-logo="https://i.imgur.com/Gj1kqH5.png",LN+ :(
 https://radiosargentina.com.ar/php/artvYT.php?id=ARCD_CABA__25.3LN________
 
-#EXTINF:-1 tvg-id="LaNacionPlus.ar@SD" tvg-logo="https://i.imgur.com/Gj1kqH5.png" group-title="General",La Nacion + (720p)
+#EXTINF:-1 tvg-id="LaNacionPlus.ar@SD" tvg-logo="https://i.imgur.com/Gj1kqH5.png" group-title="Argentina",La Nacion + (720p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/lntv.playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="0934" tvg-name="Crónica TV" group-title="Argentina" tvg-logo="https://i.imgur.com/k2Ku8Ib.png", Crónica TV :(
 https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 
-#EXTINF:-1 tvg-id="CronicaTV.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png" group-title="News",Cronica TV (1280p)
+#EXTINF:-1 tvg-id="CronicaTV.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png" group-title="Argentina",Cronica TV (1280p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/CronicaTv.playlist.m3u8
 
 
@@ -65,6 +66,9 @@ https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 
 #EXTINF:-1 tvg-id="CanalE.ar" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" group-title="Argentina",Canal E
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MetroTV.ar@SD" tvg-logo="https://i.imgur.com/7f7M7zl.png" group-title="Argentina",Metro TV (720p)
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="Argentina",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -1683,8 +1687,6 @@ https://www.youtube.com/watch?v=DVZ2rJQb_0g
 https://www.youtube.com/watch?v=cb12KmMMDJA
 
 
+
 #EXTINF:-1 tvg-id="youtube" tvg-name="Canal YouTube" tvg-logo="https://img.youtube.com/vi/DVZ2rJQb_0g/hqdefault.jpg" group-title="YouTube",Canal YouTube
 https://www.youtube.com/watch?v=DVZ2rJQb_0g
-
-
-
