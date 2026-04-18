@@ -880,7 +880,9 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/VVP0MGDRUILC8BDR6S0M/hls3/now
 
 
 ##### CAMARAS EN VIVO
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",104 y 3 Norte - CamTV 
+
+####Villa Gesell
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",104 y 3 Norte - CamTV - Villa Gesell
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAM104Y3NORTE
 
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",104 y 3 Sur - CamTV - Villa Gesell
@@ -906,6 +908,7 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAMFAROQUERAN
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",Muelle - CamTV - Villa Gesell
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAMMUELLE____
 
+#### Comodoro Rivadavia
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CRTUR.png" group-title="Camaras en Vivo",Centro I  Costanera - CamTV - Cdro Rivadavia - CH Chubut
 https://radiosargentina.com.ar/php/artvIP.php?id=ARCHCDRO____CAMCENTROICOS
 
@@ -925,6 +928,10 @@ https://video5.estadodelmar.com.ar/player/TORREON
 
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/xu/315783/png/315783.png" group-title="Camaras en Vivo",MDQ - Muelle
 https://video.estadodelmar.com.ar/player/hguerrero2
+
+
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",Mar de las Pampas
+http://camlapinocha.gesell.com.ar/mjpg/video.mjpg
 
 #### FIN CAMARAS EN VIVO
 
