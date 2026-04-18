@@ -21,9 +21,6 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/tvpublica_720.
 #EXTINF:-1 tvg-id="AmericaTV.ar@SD" tvg-name="AmericaTV" group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/500px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",America TV :(
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
-#EXTINF:-1 tvg-id="Telemax.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/960px-Telemax_Argentina_%282018%29.png" group-title="Argentina",Telemax
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
-
 
 ##### Noticias
 
@@ -80,6 +77,9 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 
 #EXTINF:-1 tvg-id="Encuentro.ar@SD" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="Argentina",Encuentro
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-19.playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telemax.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/960px-Telemax_Argentina_%282018%29.png" group-title="Argentina",Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 
 #### FIN ARGENTINA 
 
@@ -924,8 +924,14 @@ https://radiosargentina.com.ar/php/artvIP.php?id=ARCHCDRO____CAMCENTROIICO
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/xu/315783/png/315783.png" group-title="Camaras en Vivo",MDQ - Bristol
 https://video.estadodelmar.com.ar/player/torreon
 
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/xu/315783/png/315783.png" group-title="Camaras en Vivo",MDQ - Varese
-https://video.estadodelmar.com.ar/player/varese
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/xu/315783/png/315783.png" group-title="Camaras en Vivo",MDQ - Pepita
+https://video2.estadodelmar.com.ar/player/PEPITA
+
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/xu/315783/png/315783.png" group-title="Camaras en Vivo",MDQ - Torreon
+https://video5.estadodelmar.com.ar/player/TORREON
+
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/xu/315783/png/315783.png" group-title="Camaras en Vivo",MDQ - Muelle
+https://video.estadodelmar.com.ar/player/hguerrero2
 
 #### FIN CAMARAS EN VIVO
 
@@ -1694,6 +1700,9 @@ https://www.youtube.com/watch?v=DVZ2rJQb_0g
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/cb12KmMMDJA/hqdefault.jpg" group-title="YouTube",TN
 https://www.youtube.com/watch?v=cb12KmMMDJA
 
+
+#EXTINF:-1 tvg-id="youtube" tvg-name="Canal YouTube" tvg-logo="https://img.youtube.com/vi/DVZ2rJQb_0g/hqdefault.jpg" group-title="YouTube",Canal YouTube
+https://www.youtube.com/watch?v=DVZ2rJQb_0g
 
 
 ##### FIN YOUTUBE
