@@ -21,6 +21,9 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/tvpublica_720.
 #EXTINF:-1 tvg-id="AmericaTV.ar@SD" tvg-name="AmericaTV" group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/500px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",America TV :(
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
+#EXTINF:-1 tvg-id="Telemax.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/960px-Telemax_Argentina_%282018%29.png" group-title="Argentina",Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+
 
 ##### Noticias
 
@@ -43,7 +46,7 @@ https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
 
 
 
-#EXTINF:-1 tvg-id="LaNacionPlus.ar@SD" tvg-logo="https://i.imgur.com/Gj1kqH5.png" group-title="Argentina",La Nacion + (720p)
+#EXTINF:-1 tvg-id="LaNacionPlus.ar@SD" tvg-logo="https://i.imgur.com/Gj1kqH5.png" group-title="Argentina",La Nacion 
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/lntv.playlist.m3u8
 
 
@@ -206,42 +209,6 @@ https://videostream.shockmedia.com.ar:19360/rbdradio/rbdradio.m3u8
 
 
 
-
-
-
-
-##### TENNIS
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Tennis",T2 Tennis Channel (1080p)
-https://ttc-tennischannelus-firetv.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Tennis",Tennis Channel (720p)
-https://jmp2.uk/plu-6870c97b759366af055fe371.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Tennis",Tennis Channel (720p)
-https://jmp2.uk/plu-6870c9ca759366af055fe891.m3u8
-
-#EXTINF:-1 tvg-id="TennisChannel.us@SD" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Tennis",Tennis Channel (1080p)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Tennis",Tennis Channel 2 (1080p) [Geo-blocked]
-https://pb-vuh0zokcxo4al.akamaized.net/T2.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Tennis",Tennis Channel Germany (720p)
-https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Tennis",Tennis+ (1080p)
-https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TennisChannel.us@Plus2" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Tennis",TennisChannel 2 (720p)
-https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Tennis",Tensions TV (1080p)
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9db01cea-0af6-4382-b2c6-e23525f6640d/manifest.m3u8
-
-
-##### FIN TENNIS
 
 
 
@@ -706,8 +673,10 @@ https://ythls.armelin.one/channel/UCy-r-BQ5BQRU6rzGS73-WBQ.m3u8
 https://ythls.armelin.one/channel/UCOkh97CpojxaoUris4jkiRQ.m3u8
 #EXTINF:-1 tvg-id="TeleJunin.ar" tvg-logo="https://i.imgur.com/5X8gdCv.png" group-title="Argentina Interior",TeleJunin
 https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
+
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/512px-Telemax_Argentina_%282018%29.png" group-title="Argentina Interior",Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
 #EXTINF:-1 tvg-id="TeleMix.ar" tvg-logo="https://i.imgur.com/qlYSai7.png" group-title="Argentina Interior",TeleMix
 https://panel.dattalive.com/8068/8068/playlist.m3u8
 #EXTINF:-1 tvg-id="Telenord.ar" tvg-logo="https://i.imgur.com/yqXORkt.png" group-title="Argentina Interior",Telenord
@@ -888,8 +857,9 @@ https://videohd.live:19360/8016/8016.m3u8
 http://190.104.226.30/Live/870787012c00961adaf9b2304d704b57/telefe_720.m3u8
 #EXTINF:-1 tvg-id="TelefeRosario.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/960px-Telefe_Rosario_%282018%29.png" group-title="Argentina Interior",Telefe Rosario [Geo-blocked]
 https://cdn-cirion01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
-#EXTINF:-1 tvg-id="Telemax.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/960px-Telemax_Argentina_%282018%29.png" group-title="Argentina Interior",Telemax
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+
+
+
 #EXTINF:-1 tvg-id="TelemundoInternacional.us@South" tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="Argentina Interior",Telemundo Internacional (480p)
 http://190.2.212.209:8050/play/a0oa
 #EXTINF:-1 tvg-id="Telenord.ar@SD" tvg-logo="https://i.imgur.com/yqXORkt.png" group-title="Argentina Interior",Telenord Corrientes (1080p) [Not 24/7]
@@ -917,37 +887,30 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/VVP0MGDRUILC8BDR6S0M/hls3/now
 
 
 ##### CAMARAS EN VIVO
-#### Mar del Plata
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/xu/315783/png/315783.png" group-title="Camaras en Vivo",Bristol
-https://video.estadodelmar.com.ar/player/torreon
-
-
-
-
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",104 y 3 Norte - CamTV -  - Camaras en Vivo
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",104 y 3 Norte - CamTV 
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAM104Y3NORTE
 
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",104 y 3 Sur - CamTV - Villa Gesell - Camaras en Vivo
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",104 y 3 Sur - CamTV - Villa Gesell
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAM104Y3SUR__
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",107 y 3 Norte - CamTV - Villa Gesell - Camaras en Vivo
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",107 y 3 Norte - CamTV - Villa Gesell
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAM107Y3NORTE
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",107 y 3 Sur - CamTV - Villa Gesell - Camaras en Vivo
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",107 y 3 Sur - CamTV - Villa Gesell
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAM107Y3SUR__
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",112 y Playa - CamTV - Villa Gesell - Camaras en Vivo
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",112 y Playa - CamTV - Villa Gesell
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAM112YPLAYA_
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",Acceso Ciudad Norte - CamTV - Villa Gesell - Camaras en Vivo
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",Acceso Ciudad Norte - CamTV - Villa Gesell
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAMACCESOCIUD
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",Acceso RP11 Norte - CamTV - Villa Gesell - Camaras en Vivo
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",Acceso RP11 Norte - CamTV - Villa Gesell
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAMACCESORP11
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",Aeropuerto - CamTV - Villa Gesell - Camaras en Vivo
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",Aeropuerto - CamTV - Villa Gesell 
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAMAEROPUERTO
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",Bosque Historico - CamTV - Villa Gesell - Camaras en Vivo
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",Bosque Historico - CamTV - Villa Gesell
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAMBOSQUEHIST
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",Buenos Aires y Playa - CamTV - Villa Gesell - Camaras en Vivo
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",Buenos Aires y Playa - CamTV - Villa Gesell
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAMBUENOSAIRE
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",Faro Querandi - CamTV - Villa Gesell - Camaras en Vivo
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",Faro Querandi - CamTV - Villa Gesell
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAMFAROQUERAN
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",Muelle - CamTV - Villa Gesell - Camaras en Vivo
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",Muelle - CamTV - Villa Gesell
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAMMUELLE____
 
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CRTUR.png" group-title="Camaras en Vivo",Centro I  Costanera - CamTV - Cdro Rivadavia - CH Chubut
@@ -956,6 +919,13 @@ https://radiosargentina.com.ar/php/artvIP.php?id=ARCHCDRO____CAMCENTROICOS
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CRTUR.png" group-title="Camaras en Vivo",Centro II Costanera - CamTV - Cdro Rivadavia - CH Chubut
 https://radiosargentina.com.ar/php/artvIP.php?id=ARCHCDRO____CAMCENTROIICO
 
+
+#### Mar del Plata
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/xu/315783/png/315783.png" group-title="Camaras en Vivo",MDQ - Bristol
+https://video.estadodelmar.com.ar/player/torreon
+
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/xu/315783/png/315783.png" group-title="Camaras en Vivo",MDQ - Varese
+https://video.estadodelmar.com.ar/player/varese
 
 #### FIN CAMARAS EN VIVO
 
@@ -1623,6 +1593,42 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-50.playl
 
 
 
+
+
+##### TENNIS
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Tennis",T2 Tennis Channel (1080p)
+https://ttc-tennischannelus-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Tennis",Tennis Channel (720p)
+https://jmp2.uk/plu-6870c97b759366af055fe371.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Tennis",Tennis Channel (720p)
+https://jmp2.uk/plu-6870c9ca759366af055fe891.m3u8
+
+#EXTINF:-1 tvg-id="TennisChannel.us@SD" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Tennis",Tennis Channel (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Tennis",Tennis Channel 2 (1080p) [Geo-blocked]
+https://pb-vuh0zokcxo4al.akamaized.net/T2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Tennis",Tennis Channel Germany (720p)
+https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Tennis",Tennis+ (1080p)
+https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TennisChannel.us@Plus2" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Tennis",TennisChannel 2 (720p)
+https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Tennis",Tensions TV (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9db01cea-0af6-4382-b2c6-e23525f6640d/manifest.m3u8
+
+
+##### FIN TENNIS
+
+
 ##### Posibles Repetidos"
 #EXTINF:-1 tvg-id="CableImagenArmstrong.ar@SD" tvg-logo="https://i.imgur.com/U9NuJQC.png" group-title="Argentina Interior",Cable Imagen Armstrong (540p) [Not 24/7]
 https://stream.arcast.com.ar/casse/casse/playlist.m3u8
@@ -1680,7 +1686,7 @@ http://arcast.net:1935/mp/mp/playlist.m3u8
 
 
 
-youtube
+##### YOUTUBE
 
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DVZ2rJQb_0g/hqdefault.jpg" group-title="YouTube",LN+
 https://www.youtube.com/watch?v=DVZ2rJQb_0g
@@ -1688,7 +1694,6 @@ https://www.youtube.com/watch?v=DVZ2rJQb_0g
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/cb12KmMMDJA/hqdefault.jpg" group-title="YouTube",TN
 https://www.youtube.com/watch?v=cb12KmMMDJA
 
-#EXTINF:-1 tvg-id="youtube" tvg-name="Canal YouTube" tvg-logo="https://img.youtube.com/vi/DVZ2rJQb_0g/hqdefault.jpg" group-title="YouTube",Canal YouTube
-https://www.youtube.com/watch?v=DVZ2rJQb_0g
 
 
+##### FIN YOUTUBE
