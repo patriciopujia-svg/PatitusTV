@@ -1,59 +1,57 @@
 #EXTM3U
-#EXTINF:0,TELEFE HD
-rtmp://sl100tb.cxnlive.com/live/telefe.stream
-#EXTINF:0,EL TRECE HD
+#EXTINF:-1 group-title="Amerika",Argentina - 99.1 Vorterix Bahía – LRS791 Bahía Blanca, Argentina
+rtmp://64.56.64.54/12606/12606.stream
+#EXTINF:-1 group-title="Amerika",Argentina - AM 1010 Onda Latina – Buenos Aires, AR
+http://iphone-streaming.ustream.tv/ustreamVideo/8744353streams/live/playlist.m3u8
+#EXTINF:-1 group-title="Amerika",Argentina - AM SPORTS ARGENTINA
+http://iphone-streaming.ustream.tv/uhls/11602466/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="Amerika",Argentina - ARGENTINA TN 24 Horas
+rtmp://$OPT:rtmp-raw=rtmp://stream.tn.com.ar/live/tnmovil1 swfUrl=http://tn.com.ar/sites/all/themes/dientuki/swf/dplayer/player.swf live=1 pageUrl=http://tn.com.ar/
+#EXTINF:-1 group-title="Amerika",Argentina - C5N
+rtmp://$OPT:rtmp-raw=rtmp://c5n.stweb.tv:1935/c5n playpath=live_media swfUrl=http://c5n.minutouno.com//js/c5n/jwplayer/player.swf live=1
+#EXTINF:-1 group-title="Amerika",Argentina - C5N Argentina
+rtmp://c5n.stweb.tv:1935/c5n/live
+#EXTINF:-1 group-title="Amerika",Argentina - Camara De Diputados- H.C.D.N – Argentina
+rtmp://argos.hcdn.gob.ar/live/evento-1-2.stream
+#EXTINF:-1 group-title="Amerika",Argentina - CANAL 10 ENTRE RIOS ARGENTINA
+http://iphone-streaming.ustream.tv/ustreamVideo/253309/streams/live/playlist.m3u8
+#EXTINF:-1 group-title="Amerika",Argentina - Canal 12 – Córdoba, Argentiina
+http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8
+#EXTINF:-1 group-title="Amerika",Argentina - CANAL 13 ARGENITNA
 rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
-#EXTINF:0,CANAL 9 HD
-rtmp://sl100tb.cxnlive.com/live/canal9.stream
-#EXTINF:0,TV PUBLICA HD
-rtmp://sl100tb.cxnlive.com/live/tvpublica.stream
-#EXTINF:0,TyC Sports HD
-rtmp://sl100tb.cxnlive.com/live/tyc.stream
-#EXTINF:0,TN HD
-rtsp://stream.tn.com.ar/live/tnhd1
-#EXTINF:0,C5N
-http://c5n.stweb.tv:1935/c5n/live_media/playlist.m3u8
-#EXTINF:0,Canal 26 HD
-rtsp://live-edge01.telecentro.net.ar:80/live/26hd-720
-#EXTINF:0,ESPN +
-http://www.ienlace-tv.com:1935/live7/livestream1.sdp/playlist.m3u8
-#EXTINF:0,Magazine TV
-rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
-#EXTINF:0,History
-http://www.ienlace-tv.com:1935/live10/livestream1.sdp/playlist.m3u8
-#EXTINF:0,Boomerang
-http://www.ienlace-tv.com:1935/live11/livestream1.sdp/playlist.m3u8
-#EXTINF:0,Discovery kids
-http://www.ienlace-tv.com:1935/live6/livestream1.sdp/playlist.m3u8
-#EXTINF:0,Q Musica
-mms://streamqm.uigc.net/qmusica
-#EXTINF:0,Deportv HD
-rtmp://sl100tb.cxnlive.com/live/deportv.stream
-#EXTINF:0,America TV
-rtmp://wdc.cxnlive.com/live/americasd.stream
-#EXTINF:0,NATGEO HD
-http://ilg.club/streamlink.m3u8?channel_id=7ad09373f65c48d5bb6aa6c3b2ca519a&bitrate=800
-#EXTINF:0,NATGEO WILD HD
-http://ilg.club/streamlink.m3u8?channel_id=607fa33938bc4a3ea6c43ce47ddb8ed8&bitrate=800
-#EXTINF:0,FX HD
-http://ilg.club/streamlink.m3u8?channel_id=2e0e4b05aa6e428593f3b45b710045b7&bitrate=800
-#EXTINF:0,STAR WORLD HD
-http://ilg.club/streamlink.m3u8?channel_id=65f7358b813048a0898f5677e1793cf9&bitrate=800
-#EXTINF:0,NAT GEO MUSIC HD
-http://ilg.club/streamlink.m3u8?channel_id=69c2eab6794344619a049c5dea60ca22&bitrate=800
-#EXTINF:0,BABY TV HD
-http://ilg.club/streamlink.m3u8?channel_id=7773f3cef0334a28ad248552ea63d9e7&bitrate=800
-#EXTINF:0,SYFY HD
-http://ilg.club/streamlink.m3u8?channel_id=71f197de056e499a85265c03b44bdab1&bitrate=800
-#EXTINF:0,COMEDY CENTRAL HD
-http://ilg.club/streamlink.m3u8?channel_id=2f18d4ba25224edaa8bb9aac94b00d4f&bitrate=800
-#EXTINF:0,FOX SPORTS
-rtmp://wdc.cxnlive.com/live/foxsd.stream
-#EXTINF:0,ESPN
-rtmp://wdc.cxnlive.com/live/espn.stream
-#EXTINF:0,CRONICA TV
-rtmp://wdc.cxnlive.com/live/cronica.stream
-#EXTINF:0,TELESUR
-http://cdn2.telesur.ultrabase.net/livecf/telesurLive/master.m3u8
-#EXTINF:0,TELEMAX
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1 group-title="Amerika",Argentina - Canal 13 TD (Telediario Digital) – Rio Cuarto, Argentina
+http://iphone-streaming.ustream.tv/ustreamVideo/1358413/streams/live/playlist.m3u8
+#EXTINF:-1 group-title="Amerika",Argentina - Canal 26
+http://200.115.194.1:8080/Canal26?MSWMExt=.asf
+#EXTINF:-1 group-title="Amerika",Argentina - CANAL 26 mms
+mms://200.115.194.1:1755/Canal26
+#EXTINF:-1 group-title="Amerika",Argentina - Canal 3 – Trelew, Argentina
+rtmp://198.49.76.226:1935/inovahd/inovahd
+#EXTINF:-1 group-title="Amerika",Argentina - Canal 5 Tigre, Argentina
+http://iphone-streaming.ustream.tv/ustreamVideo/11068260/streams/live/playlist.m3u8
+#EXTINF:-1 group-title="Amerika",Argentina - Canal 79 Mar del Plata. Argentina
+rtmp://144.76.17.146/cn79a/cn79a
+#EXTINF:-1 group-title="Amerika",Argentina - Canal Rural 1
+rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1
+#EXTINF:-1 group-title="Amerika",Argentina - CANAL RURAL 2
+rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural2
+#EXTINF:-1 group-title="Amerika",Argentina - CANAL RURAL 3
+rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural3
+#EXTINF:-1 group-title="Amerika",Argentina - DOS 99.5 FM CORRIENTES ARGENTINA
+http://radiodos.coninfo.net:8500/stream?type=.flv&anticache=8342301029
+#EXTINF:-1 group-title="Amerika",Argentina - H.C.D.N.
+rtmp://argos.hcdn.gob.ar/live/evento-1-2.stream
+#EXTINF:-1 group-title="Amerika",Argentina - JUJUY TV CANAL 7 ARGENTINA
+rtsp://200.43.187.18/canal7
+#EXTINF:-1 group-title="Amerika",Argentina - LAPACHO TV CANAL 11 FORMOSA ARGENTINA
+rtmp://$OPT:rtmp-raw=rtmp://stream1.livestreamingservices.com:1935/tvcanal11 playpath=tvcanal11 swfUrl=http://www.lapachotv.com.ar/jwplayer/player.swf live=1 pageUrl=http://www.lapachotv.com.ar/vivo/
+#EXTINF:-1 group-title="Amerika",Argentina - Nuestra Radio, Cordoba, Argentina – VIDEO STREAM
+http://iphone-streaming.ustream.tv/ustreamVideo/15271401/streams/live/playlist.m3u8
+#EXTINF:-1 group-title="Amerika",Argentina - Quiero Musica mms
+mms://200.42.92.6:1755/qmusica
+#EXTINF:-1 group-title="Amerika",Argentina - TN24 AR
+rtmp://$OPT:rtmp-raw=rtmp://stream.tn.com.ar/live playpath=tnhd3 swfUrl=http://tn.com.ar/sites/all/themes/dientuki/swf/dplayer/player.swf live=1 pageUrl=http://tn.com.ar/envivo/24hs/HD
+#EXTINF:-1 group-title="Amerika",Argentina - Tucuman Canal 5
+rtsp://mobil.tucuman.tv/edge/scwsttv506460643395c
+#EXTINF:-1 group-title="Amerika",Argentina - VIVRA TV
+http://iphone-streaming.ustream.tv/uhls/10002020/streams/live/iphone/playlist.m3u8
