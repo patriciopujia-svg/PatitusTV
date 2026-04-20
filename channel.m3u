@@ -16,7 +16,6 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlis
 https://cdn-cirion01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
 
 
-
 #EXTINF:-1 tvg-id="0915" group-title="Argentina" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png", El Trece
 #EXTVLCOPT:http-referrer=https://www.m3u8player.online/
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
@@ -244,25 +243,13 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/deportv_720.m3
 #EXTINF:-1 tvg-id="FIFAPlus.uk@HispanicAmerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Deportes",FIFA+ Hispanic America (720p)
 https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" group-title="Deportes", ESPN (argentina)
-http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/50087.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" group-title="Deportes", ESPN 2 (argentina)
-http://tvbross.com:8090/live/TGfKi5GpAg/tMbyd8gzhx/18192.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" group-title="Deportes", ESPN 3 (argentina)
-http://2.magmas5.com:8000/live/gooodseerveriptv/X7MY8691HH/4940.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" group-title="Deportes", ESPN PREMIUM (argentina)
-http://ultra-premium-pro.xyz:8080/932350310tv/rt1brn/542
 
 
 #EXTINF:-1 tvg-id="CnArDeportes.ar" tvg-logo="https://i.imgur.com/07ki2df.png" group-title="Deportes",CnAr Deportes
 https://stmv1.cnarlatam.com/cnardeportes2/cnardeportes2/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="DirecTVSports.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes",DirecTV Sports (1080p)
-https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
+
 ##### FIN DEPORTES
 
 
@@ -1732,6 +1719,8 @@ http://arcast.net:1935/mp/mp/playlist.m3u8
 
 
 
+
+
 ##### YOUTUBE
 
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DVZ2rJQb_0g/hqdefault.jpg" group-title="YouTube",LN+
@@ -1744,23 +1733,5 @@ https://www.youtube.com/watch?v=cb12KmMMDJA
 #EXTINF:-1 tvg-id="youtube" tvg-name="Canal YouTube" tvg-logo="https://img.youtube.com/vi/DVZ2rJQb_0g/hqdefault.jpg" group-title="YouTube",Canal YouTube
 https://www.youtube.com/watch?v=DVZ2rJQb_0g
 
+
 ##### FIN YOUTUBE
-
-
-
-
-#EXTINF:-1 group-title="Bics DEPORTES", ESPN (argentina)
-http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/50087.ts
-#EXTINF:-1 group-title="Bics DEPORTES", ESPN 2 (argentina)
-http://tvbross.com:8090/live/TGfKi5GpAg/tMbyd8gzhx/18192.ts
-#EXTINF:-1 group-title="Bics DEPORTES", ESPN 3 (argentina)
-http://2.magmas5.com:8000/live/gooodseerveriptv/X7MY8691HH/4940.ts
-#EXTINF:-1 group-title="Bics DEPORTES", ESPN PREMIUM (argentina)
-http://ultra-premium-pro.xyz:8080/932350310tv/rt1brn/542
-#EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS (argentina)
-http://ultra-premium-pro.xyz:8080/932350310tv/rt1brn/456
-#EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS 2 (argentina)
-http://tvbross.com:8090/live/Ruben2023/2023Ruben/17756.ts
-#EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS 3 (argentina)
-http://ultra-premium-pro.xyz:8080/932350310tv/rt1brn/455
-
