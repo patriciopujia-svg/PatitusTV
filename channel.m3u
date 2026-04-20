@@ -1,10 +1,4 @@
 #EXTM3U
-
-
-#EXTINF:-1 tvg-id="1909" tvg-name="Telefe" group-title="Camras en Vivo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png", tnnn
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8 
-
-
 ##### ARGENTINA 
 
 #EXTINF:-1 tvg-id="1909" tvg-name="Telefe" group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png", Telefe
@@ -46,10 +40,14 @@ https://g2.mc-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_7
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 
-#EXTINF:-1 tvg-id="0905" tvg-name="TN 2" group-title="Argentina" tvg-logo="https://i.imgur.com/vFwPhPS.png", TN
+#EXTINF:-1 tvg-id="0905" tvg-name="TN" group-title="Argentina" tvg-logo="https://i.imgur.com/vFwPhPS.png", TN
 #EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
+
+
+#EXTINF:-1 tvg-id="0905" tvg-name="TN 2" group-title="Argentina" tvg-logo="https://i.imgur.com/vFwPhPS.png", TN 2
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8 
 
 
 
@@ -252,8 +250,7 @@ https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbX
 https://stmv1.cnarlatam.com/cnardeportes2/cnardeportes2/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="DirecTVSports.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes",DirecTV Sports (1080p)
-https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
+
 
 ##### FIN DEPORTES
 
@@ -1012,6 +1009,10 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 ##### Sports
 
 #EXTM3U
+#EXTINF:-1 tvg-id="DirecTVSports.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Sports",DirecTV Sports (1080p)
+https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
+
+
 #EXTINF:-1 tvg-id="30AGolfKingdom.us@SD" tvg-logo="https://golfkingdom.net/wp-content/uploads/2022/04/golf-kingdom-st.jpg" group-title="Sports",30A Golf Kingdom (720p)
 https://30a-tv.com/feeds/vidaa/golf.m3u8
 #EXTINF:-1 tvg-id="Sport.sk@SD" tvg-logo="https://i.imgur.com/oAtcxNZ.png" group-title="Sports",:Šport (1080p)
