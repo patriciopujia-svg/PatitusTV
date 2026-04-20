@@ -1,4 +1,10 @@
 #EXTM3U
+
+
+#EXTINF:-1 tvg-id="1909" tvg-name="Telefe" group-title="Camras en Vivo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png", Telefe
+https://www.vision-environnement.com/ar/webcam/webcam/buenos-aires/423-buenos-aires/
+
+
 ##### ARGENTINA 
 
 #EXTINF:-1 tvg-id="1909" tvg-name="Telefe" group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png", Telefe
@@ -956,8 +962,6 @@ https://video5.estadodelmar.com.ar/player/TORREON
 https://video.estadodelmar.com.ar/player/hguerrero2
 
 
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/xu/315783/png/315783.png" group-title="Camaras en Vivo",Bs. As. 1
-https://www.skylinewebcams.com/ru/webcam/argentina/buenos-aires/buenos-aires/obelisco.html
 
 
 #### FIN CAMARAS EN VIVO
