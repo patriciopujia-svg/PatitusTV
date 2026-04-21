@@ -930,17 +930,17 @@ https://wowza.telpin.com.ar:1935/camara-rambla/rambla.stream/1.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",Playa 2 - Ostende 
 https://wowza.telpin.com.ar:1935/camara-ramblaloft/ramblaloft.stream/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo", Golf Pinamar
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo", Golf - Pinamar
 https://wowza.telpin.com.ar:1935/camara-golf/golf.stream/1.m3u8
 
 ####FIN Villa Gesell
 
 
 ###### Neuquen
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/21/1/neuquen-logo-png_seeklogo-214181.png" group-title="Camaras en Vivo", Puente Rio Limay - Neuquén
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/326/920/png-clipart-centro-de-capacitacion-comunitaria-plaza-huincul-escudo-de-neuquen-presidente-peron-international-airport-general-jose-maria-paz-bandera-argentina-logo-computer-wallpaper-thumbnail.png" group-title="Camaras en Vivo", Puente Rio Limay - Neuquén
 https://camaras.neuquencapital.gov.ar/live/puente-riolimay.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/21/1/neuquen-logo-png_seeklogo-214181.png" group-title="Camaras en Vivo", Ciudad 1 - Neuquén
+#EXTINF:-1 tvg-logo="https://www.argentina.gob.ar/sites/default/files/escudo_original_neuquen.jpg" group-title="Camaras en Vivo", Ciudad 1 - Neuquén
 https://camaras.neuquencapital.gov.ar/live/canal7.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/21/1/neuquen-logo-png_seeklogo-214181.png" group-title="Camaras en Vivo", Isla 132 - Neuquén
@@ -959,6 +959,16 @@ https://camaras.neuquencapital.gov.ar/live/monumento-calle.m3u8
 #####Fin Neuquen
 
 
+#####Santa Cruz
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo", El Chalten - San Cruz
+https://radiosargentina.com.ar/arcltv.html?var1=https://media.cotecal.com.ar/Chalten_Cam/video.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo", Glaciar Perito Moreno - Santa Cruz
+https://media.cotecal.com.ar/Glaciar_Cam/index.m3u8
+
+#####Fin Santa Cruz
+
 #### Comodoro Rivadavia
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CRTUR.png" group-title="Camaras en Vivo",Centro I  Costanera - Cdro Rivadavia - CH Chubut
 https://radiosargentina.com.ar/php/artvIP.php?id=ARCHCDRO____CAMCENTROICOS
@@ -966,7 +976,7 @@ https://radiosargentina.com.ar/php/artvIP.php?id=ARCHCDRO____CAMCENTROICOS
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CRTUR.png" group-title="Camaras en Vivo",Centro II Costanera - Cdro Rivadavia - CH Chubut
 https://radiosargentina.com.ar/php/artvIP.php?id=ARCHCDRO____CAMCENTROIICO
 
-
+### FIN Comodoro Rivadavia
 
 #### Mar del Plata
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/xu/315783/png/315783.png" group-title="Camaras en Vivo",MDQ - Bristol
