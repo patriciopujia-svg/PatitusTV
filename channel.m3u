@@ -1,8 +1,4 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-name="camaras.neuquencapital" tvg-logo="https://www.argentina.gob.ar/sites/default/files/escudo_original_neuquen.jpg" group-title="Camaras en Vivo", Puente Rio Limay - Neuquén
-https://camaras.neuquencapital.gov.ar/live/puente-riolimay.m3u8
-
 ##### ARGENTINA 
 #EXTINF:-1 tvg-id="Telefe.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe (1080p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8
