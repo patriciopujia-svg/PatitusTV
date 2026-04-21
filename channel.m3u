@@ -937,23 +937,23 @@ https://wowza.telpin.com.ar:1935/camara-golf/golf.stream/1.m3u8
 
 
 ###### Neuquen
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/326/920/png-clipart-centro-de-capacitacion-comunitaria-plaza-huincul-escudo-de-neuquen-presidente-peron-international-airport-general-jose-maria-paz-bandera-argentina-logo-computer-wallpaper-thumbnail.png" group-title="Camaras en Vivo", Puente Rio Limay - Neuquén
+#EXTINF:-1 tvg-logo="https://www.argentina.gob.ar/sites/default/files/escudo_original_neuquen.jpg" group-title="Camaras en Vivo", Puente Rio Limay - Neuquén
 https://camaras.neuquencapital.gov.ar/live/puente-riolimay.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.argentina.gob.ar/sites/default/files/escudo_original_neuquen.jpg" group-title="Camaras en Vivo", Ciudad 1 - Neuquén
 https://camaras.neuquencapital.gov.ar/live/canal7.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/21/1/neuquen-logo-png_seeklogo-214181.png" group-title="Camaras en Vivo", Isla 132 - Neuquén
+#EXTINF:-1 tvg-logo="https://www.argentina.gob.ar/sites/default/files/escudo_original_neuquen.jpg" group-title="Camaras en Vivo", Isla 132 - Neuquén
 https://camaras.neuquencapital.gov.ar/live/isla132.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/21/1/neuquen-logo-png_seeklogo-214181.png" group-title="Camaras en Vivo", Rotonda Rio Limay - Neuquén
+#EXTINF:-1 tvg-logo="https://www.argentina.gob.ar/sites/default/files/escudo_original_neuquen.jpg" group-title="Camaras en Vivo", Rotonda Rio Limay - Neuquén
 https://camaras.neuquencapital.gov.ar/live/rotonda-riolimay.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/21/1/neuquen-logo-png_seeklogo-214181.png" group-title="Camaras en Vivo", San Martin 1 - Neuquén
+#EXTINF:-1 tvg-logo="https://www.argentina.gob.ar/sites/default/files/escudo_original_neuquen.jpg" group-title="Camaras en Vivo", San Martin 1 - Neuquén
 https://camaras.neuquencapital.gov.ar/live/monumento-calle.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/21/1/neuquen-logo-png_seeklogo-214181.png" group-title="Camaras en Vivo", San Martin 2 - Neuquén
+#EXTINF:-1 tvg-logo="https://www.argentina.gob.ar/sites/default/files/escudo_original_neuquen.jpg" group-title="Camaras en Vivo", San Martin 2 - Neuquén
 https://camaras.neuquencapital.gov.ar/live/monumento-calle.m3u8
 
 #####Fin Neuquen
