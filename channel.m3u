@@ -16,14 +16,6 @@ http://107.152.39.199:8030/hls/canal7.m3u8
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/tvpublica_720.m3u8
 
 
-#EXTINF:-1 tvg-id="AmericaTV.ar@SD" tvg-name="AmericaTV" group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/500px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",America TV :(
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-
-
-
-#EXTINF:-1 tvg-id="0222" tvg-name="A24" group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/A24_%282025%29.svg/3840px-A24_%282025%29.svg.png", A24 :(
-https://g2.mc-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_720p.m3u8
-
 #EXTINF:-1 tvg-id="Canal26.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png" group-title="Argentina",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
@@ -87,6 +79,14 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-10.playl
 
 #EXTINF:-1 tvg-id="0905" tvg-name="TN 2" group-title="Argentina" tvg-logo="https://i.imgur.com/vFwPhPS.png", TN (720)
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8 
+
+#EXTINF:-1 tvg-id="AmericaTV.ar@SD" tvg-name="AmericaTV" group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/500px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",America TV :(
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
+
+
+#EXTINF:-1 tvg-id="0222" tvg-name="A24" group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/A24_%282025%29.svg/3840px-A24_%282025%29.svg.png", A24 :(
+https://g2.mc-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
 #### FIN ARGENTINA 
 
