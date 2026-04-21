@@ -1,19 +1,9 @@
 #EXTM3U
 ##### ARGENTINA 
-
-#EXTINF:-1 tvg-id="1909" tvg-name="Telefe" group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png", Telefe
-http://107.152.39.199:8030/hls/canal13.m3u8
-
-
-#EXTINF:-1 tvg-id="TelefeSantaFe.ar@SD" tvg-logo="https://i.imgur.com/x6hiZRU.png" group-title="Argentina",Telefe Santa Fe (1080p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-10.playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="Telefe.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe (1080p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8
 
-#EXTINF:-1 tvg-id="TelefeRosario.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/960px-Telefe_Rosario_%282018%29.png" group-title="Argentina",Telefe Rosario [Geo-blocked]
-https://cdn-cirion01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="0915" group-title="Argentina" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png", El Trece
@@ -40,14 +30,10 @@ https://g2.mc-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_7
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 
-#EXTINF:-1 tvg-id="0905" tvg-name="TN" group-title="Argentina" tvg-logo="https://i.imgur.com/vFwPhPS.png", TN
+#EXTINF:-1 tvg-id="0905" tvg-name="TN" group-title="Argentina" tvg-logo="https://i.imgur.com/vFwPhPS.png", TN (1080)
 #EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
-
-
-#EXTINF:-1 tvg-id="0905" tvg-name="TN 2" group-title="Argentina" tvg-logo="https://i.imgur.com/vFwPhPS.png", TN 2
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8 
 
 
 
@@ -95,6 +81,14 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-21_480.m
 
 #EXTINF:-1 tvg-id="Metro.ar@SD" tvg-logo="https://i.imgur.com/D4nRp62.png" group-title="Argentina",Metro
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-53_480.m3u8
+
+
+#EXTINF:-1 tvg-id="TelefeSantaFe.ar@SD" tvg-logo="https://i.imgur.com/x6hiZRU.png" group-title="Argentina",Telefe Santa Fe (1080p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-10.playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="0905" tvg-name="TN 2" group-title="Argentina" tvg-logo="https://i.imgur.com/vFwPhPS.png", TN (720)
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8 
 
 #### FIN ARGENTINA 
 
@@ -1723,6 +1717,7 @@ http://arcast.net:1935/mp/mp/playlist.m3u8
 
 
 
+
 ##### YOUTUBE
 
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DVZ2rJQb_0g/hqdefault.jpg" group-title="YouTube",LN+
@@ -1737,48 +1732,3 @@ https://www.youtube.com/watch?v=DVZ2rJQb_0g
 
 
 ##### FIN YOUTUBE
-
-
-
-
-
-
-#EXTINF:-1 group-title="Deportes Prueba", ESPN (argentina)
-http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/50087.ts
-
-#EXTINF:-1 group-title="Deportes Prueba", ESPN 2 (argentina)
-http://tvbross.com:8090/live/TGfKi5GpAg/tMbyd8gzhx/18192.ts
-
-#EXTINF:-1 group-title="Deportes Prueba", ESPN 3 (argentina)
-http://2.magmas5.com:8000/live/gooodseerveriptv/X7MY8691HH/4940.ts
-
-#EXTINF:-1 group-title="Deportes Prueba", ESPN PREMIUM (argentina)
-http://ultra-premium-pro.xyz:8080/932350310tv/rt1brn/542
-
-#EXTINF:-1 tvg-name="FOX SPORTS" group-title="Deportes Prueba", FOX SPORTS (argentina)
-http://ultra-premium-pro.xyz:8080/932350310tv/rt1brn/456
-
-#EXTINF:-1 tvg-name="FOX SPORTS 1" group-title="Deportes Prueba", FOX SPORTS 2 (argentina)
-http://tvbross.com:8090/live/Ruben2023/2023Ruben/17756.ts
-
-#EXTINF:-1 group-title="Deportes Prueba", FOX SPORTS 3 (argentina)
-http://ultra-premium-pro.xyz:8080/932350310tv/rt1brn/455
-
-
-
-#EXTINF:-1 tvg-id="DirecTVSports.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes Prueba",DirecTV Sports (1080p)
-https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" group-title="Deportes Prueba", ESPN (argentina)
-http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/50087.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" group-title="Deportes Prueba", ESPN 2 (argentina)
-http://tvbross.com:8090/live/TGfKi5GpAg/tMbyd8gzhx/18192.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" group-title="Deportes Prueba", ESPN 3 (argentina)
-http://2.magmas5.com:8000/live/gooodseerveriptv/X7MY8691HH/4940.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" group-title="Deportes Prueba", ESPN PREMIUM (argentina)
-http://ultra-premium-pro.xyz:8080/932350310tv/rt1brn/542
