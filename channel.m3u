@@ -233,6 +233,9 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playl
 #EXTINF:-1 tvg-id="TyCSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Deportes",TyC Sports
 https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
 
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---TYC.png" group-title="Deportes",TyC Sports 2
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CTYCSPORTS_
+
 #EXTINF:-1 tvg-id="DeporTV.ar@SD" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="Deportes",DeporTV
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/deportv_720.m3u8
 
@@ -1841,8 +1844,7 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CTIERRAMIA_
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CTNTODONOTI
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITVE24h.png" group-title="Radio CD Cd Aut Bs As",TVE 24h - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CTVE24H____
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---TYC.png" group-title="Radio CD Cd Aut Bs As",TyC Sports - CTV - CABA TV Cable - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CTYCSPORTS_
+
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIVIAJAR.png" group-title="Radio CD Cd Aut Bs As",Viajar - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CVIAJAR____
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIVOLVER.png" group-title="Radio CD Cd Aut Bs As",Volver - CTV - CABA TV Cable - CD Cd Aut Bs As
@@ -2131,8 +2133,7 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___79CCLIMA_SERV
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAZARAT_90.1_FULLMEDIOS
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-ROCKZ.png" group-title="Radio BA Buenos Aires",Rock - 103.3 TV - Zárate - BA Buenos Aires
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAZARAT103.3_ROCK______
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRK471.png" group-title="Radio CA Catamarca",LRK471 Catamarca RTV - 27.1TV - SFV de Catamarca - CA Catamarca
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCASFV_D__27.1LRK471CATA
+
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--C11M.png" group-title="Radio CC Chaco",Canal Once - 11 TV - Machagai - CC Chaco
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCCMACHA___11_CANALONCE_
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VISUNOTV.png" group-title="Radio CC Chaco",Somos Uno - 26.1TV - Resistencia - CC Chaco
