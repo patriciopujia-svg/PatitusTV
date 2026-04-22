@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="0915" group-title="Prueba" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png", El Trece
+https://worldcam.eu/liveview/35657
+
+
 ##### ARGENTINA 
 #EXTINF:-1 tvg-id="Telefe.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe (1080p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8
