@@ -2,6 +2,8 @@
 #EXTINF:-1 tvg-id="0915" group-title="Prueba" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png", El Trece
 https://camparroquia.gesell.com.ar/live/parroquia.m3u8
 
+#EXTINF:-1 tvg-id="0915" group-title="Prueba" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png", El Trece 2
+https://camparroquia.gesell.com.ar/hls/parroquia.m3u8
 
 ##### ARGENTINA 
 #EXTINF:-1 tvg-id="Telefe.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe (1080p)
