@@ -877,6 +877,7 @@ https://camlapinocha.gesell.com.ar/playlist.m3u8
 
 
 ####Villa Gesell
+
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",Buenos Aires y Playa - Villa Gesell
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAMBUENOSAIRE
 
@@ -899,7 +900,6 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAM107Y3NORTE
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",107 y 3 Sur - Villa Gesell
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAM107Y3SUR__
 
-
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",Acceso Ciudad Norte - Villa Gesell
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAMACCESOCIUD
 
@@ -908,9 +908,6 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAMACCESORP11
 
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",Aeropuerto - Villa Gesell 
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAMAEROPUERTO
-
-
-
 
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",Faro Querandi - Villa Gesell
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAMFAROQUERAN
@@ -937,7 +934,7 @@ https://wowza.telpin.com.ar:1935/camara-golf/golf.stream/1.m3u8
 
 
 ###### Neuquen
-#EXTINF:-1 tvg-logo="https://www.argentina.gob.ar/sites/default/files/escudo_original_neuquen.jpg" group-title="Camaras en Vivo", Puente Rio Limay - Neuquén
+#EXTINF:-1 tvg-name="camaras.neuquencapital" tvg-logo="https://www.argentina.gob.ar/sites/default/files/escudo_original_neuquen.jpg" group-title="Camaras en Vivo", Puente Rio Limay - Neuquén
 https://camaras.neuquencapital.gov.ar/live/puente-riolimay.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.argentina.gob.ar/sites/default/files/escudo_original_neuquen.jpg" group-title="Camaras en Vivo", Ciudad 1 - Neuquén
@@ -969,29 +966,36 @@ https://media.cotecal.com.ar/Glaciar_Cam/index.m3u8
 
 #####Fin Santa Cruz
 
-#### Comodoro Rivadavia
+
+#### Comodoro Rivadavia - Chubut
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CRTUR.png" group-title="Camaras en Vivo",Centro I  Costanera - Cdro Rivadavia - CH Chubut
 https://radiosargentina.com.ar/php/artvIP.php?id=ARCHCDRO____CAMCENTROICOS
 
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CRTUR.png" group-title="Camaras en Vivo",Centro II Costanera - Cdro Rivadavia - CH Chubut
 https://radiosargentina.com.ar/php/artvIP.php?id=ARCHCDRO____CAMCENTROIICO
 
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CRTUR.png" group-title="Camaras en Vivo",Caleta Córdova - CamTV - Cdro Rivadavia - CH Chubut
+https://radiosargentina.com.ar/php/artvIP.php?id=ARCHCDRO____CAMCALETACORD
+
+
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CRTUR.png" group-title="Camaras en Vivo",Náutico Km3 - CamTV - Cdro Rivadavia - CH Chubut
+https://radiosargentina.com.ar/php/artvIP.php?id=ARCHCDRO____CAMNAUTICOKM3
+
 ### FIN Comodoro Rivadavia
 
+
 #### Mar del Plata
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/xu/315783/png/315783.png" group-title="Camaras en Vivo",MDQ - Bristol
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/xu/315783/png/315783.png" group-title="Camaras en Vivo",Bristol - Mar del Plata
 https://video.estadodelmar.com.ar/player/torreon
 
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/xu/315783/png/315783.png" group-title="Camaras en Vivo",MDQ - Pepita
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/xu/315783/png/315783.png" group-title="Camaras en Vivo",Pepita - Mar del Plata
 https://video2.estadodelmar.com.ar/player/PEPITA
 
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/xu/315783/png/315783.png" group-title="Camaras en Vivo",MDQ - Torreon
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/xu/315783/png/315783.png" group-title="Camaras en Vivo",Torreon - Mar del Plata
 https://video5.estadodelmar.com.ar/player/TORREON
 
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/xu/315783/png/315783.png" group-title="Camaras en Vivo",MDQ - Muelle
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/xu/315783/png/315783.png" group-title="Camaras en Vivo",Muelle - Mar del Plata
 https://video.estadodelmar.com.ar/player/hguerrero2
-
-
 
 
 #### FIN CAMARAS EN VIVO
@@ -2141,14 +2145,9 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCCRESIS__27.2NGFEDERAL_
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCCRESIS__29.1CHTV______
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIRESIST.png" group-title="Radio CC Chaco",Resistencia - 90.3 TV - Resistencia - CC Chaco
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCCRESIS_90.3_RESISTENCI
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CRTUR.png" group-title="Radio CH Chubut",Caleta Córdova - CamTV - Cdro Rivadavia - CH Chubut
-https://radiosargentina.com.ar/php/artvIP.php?id=ARCHCDRO____CAMCALETACORD
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CRTUR.png" group-title="Radio CH Chubut",Centro I  Costanera - CamTV - Cdro Rivadavia - CH Chubut
-https://radiosargentina.com.ar/php/artvIP.php?id=ARCHCDRO____CAMCENTROICOS
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CRTUR.png" group-title="Radio CH Chubut",Centro II Costanera - CamTV - Cdro Rivadavia - CH Chubut
-https://radiosargentina.com.ar/php/artvIP.php?id=ARCHCDRO____CAMCENTROIICO
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CRTUR.png" group-title="Radio CH Chubut",Náutico Km3 - CamTV - Cdro Rivadavia - CH Chubut
-https://radiosargentina.com.ar/php/artvIP.php?id=ARCHCDRO____CAMNAUTICOKM3
+
+
+
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRF405.png" group-title="Radio CH Chubut",LRF405 Universo - 89.5 TV - Cdro Rivadavia - CH Chubut
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCHCDRO__89.5_LRF405UNIV
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---ETC.png" group-title="Radio CH Chubut",ETC - 4CTV - Esquel - CH Chubut
