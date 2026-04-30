@@ -20,7 +20,7 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/tvpublica_720.
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 
-#EXTINF:-1 tvg-id="0905" tvg-name="TN" group-title="Argentina" tvg-logo="https://i.imgur.com/vFwPhPS.png", TN (1080)
+#EXTINF:-1 tvg-id="0905" tvg-name="TN" group-title="Argentina" tvg-logo="https://i.imgur.com/vFwPhPS.png", TN
 #EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
@@ -131,10 +131,8 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
 
 
-
 #EXTINF:-1 tvg-id="Am1020.ar" tvg-logo="https://i.imgur.com/nEVKVZK.png" group-title="Argentina Radios",Am1020
 http://51.79.83.93:9998/live/am1020/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="AzaharesRadiovisualMultimedia.ar" tvg-logo="https://i.imgur.com/g1BFoSs.png" group-title="Argentina Radios",Azahares Radiovisual Multimedia
 https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
@@ -190,7 +188,6 @@ https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 #EXTINF:-1 tvg-id="RadioConexionWebTV.ar@SD" tvg-logo="https://i.imgur.com/pXS38zo.png" group-title="Argentina Radios",Radio Conexion Web TV (720p)
 https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8
 
-
 #EXTINF:-1 tvg-id="RadioFMTrujui.ar" tvg-logo="https://i.imgur.com/xPUQ17D.png" group-title="Argentina Radios",Radio FM Trujui
 https://inliveserver.com:1936/14102/14102/playlist.m3u8
 
@@ -199,7 +196,6 @@ https://live-05-13-mitre.vodgc.net/live-05-13-mitre.vodgc.net/index.m3u8
 
 #EXTINF:-1 tvg-id="RadioRealpolitik.ar" tvg-logo="https://i.imgur.com/L9KCdTX.png" group-title="Argentina Radios",Radio Realpolitik
 https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
-
 
 
 #EXTINF:-1 tvg-id="RBDRadioMultimedia.ar" tvg-logo="https://i.imgur.com/TD0I4hG.png" group-title="Argentina Radios",RBD Radio Multimedia
@@ -272,6 +268,8 @@ http://arcast.net:1935/mp/mp/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal13Jujuy.ar@SD" tvg-logo="https://i.imgur.com/lmKLiJ3.jpg" group-title="Argentina Interior",Canal 13 Jujuy TV (720p)
 https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--3PIN.png" group-title="Argentina Interior",CN3 - 3 TV - Pinamar
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPINAM____3_CN3_______
 
 #EXTINF:-1 tvg-id="Canal9Litoral.ar" tvg-logo="https://i2.paste.pics/216f13d3a32f35802881b19c2fa39554.png" group-title="Argentina Interior",Canal 9 Litoral
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
@@ -300,7 +298,6 @@ https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u
 
 #EXTINF:-1 tvg-id="Canal5Tucuman.ar" tvg-logo="https://i2.paste.pics/a3cc09111530a9edea11497d6575afb0.png" group-title="Argentina Interior",Canal 5 Tucuman
 https://videohd.live:19360/8090/8090.m3u8
-
 
 
 #EXTINF:-1 tvg-id="Cadena103TV.ar" tvg-logo="https://i.imgur.com/vBsry35.png" group-title="Argentina Interior",Cadena103.TV
@@ -900,9 +897,6 @@ https://ythls.armelin.one/channel/UCuJvDPQIaUhvdHiH275WjNA.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",Mar de las Pampas
 https://camlapinocha.gesell.com.ar/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",Mar de la Pampas - CamTV - Mar delas Pampas - BA Buenos Aires
-https://radiosargentina.com.ar/php/artvDI.php?id=ARBAMAR_D___CAMMARDELAPAM
-
 
 ####Villa Gesell
 
@@ -948,38 +942,34 @@ https://wowza.telpin.com.ar:1935/camara-muelle/muelle.stream/1.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",Playa - Villa Gesell
 https://wowza.telpin.com.ar:1935/camara-hemingway/hemingway.stream/1.m3u8
 
-
-
 ####FIN Villa Gesell
 
 
 ##### PINAMAR
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----T2.png" group-title="Camaras en Vivo",Telpin t2 - 2CTV - Pinamar - BA Buenos Aires
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----T2.png" group-title="Camaras en Vivo",Telpin t2 - Pinamar 
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPINAM____2CTELPINT2__
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--3PIN.png" group-title="Camaras en Vivo",CN3 - 3 TV - Pinamar - BA Buenos Aires
-https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPINAM____3_CN3_______
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELPIN.png" group-title="Camaras en Vivo",Botavara - CamTV - Pinamar - BA Buenos Aires
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELPIN.png" group-title="Camaras en Vivo",Botavara - Pinamar
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPINAM___CAMBOTAVARA__
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELPIN.png" group-title="Camaras en Vivo",Bunge y El Mar - CamTV - Pinamar - BA Buenos Aires
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELPIN.png" group-title="Camaras en Vivo",Bunge y El Mar - Pinamar
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPINAM___CAMBUNGEYELMA
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELPIN.png" group-title="Camaras en Vivo",Bunge y Libertador - CamTV - Pinamar - BA Buenos Aires
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELPIN.png" group-title="Camaras en Vivo",Bunge y Libertador - Pinamar
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPINAM___CAMBUNGEYLIBE
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELPIN.png" group-title="Camaras en Vivo",Hemingway - CamTV - Pinamar - BA Buenos Aires
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELPIN.png" group-title="Camaras en Vivo",Hemingway - Pinamar 
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPINAM___CAMHEMINGWAY_
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELPIN.png" group-title="Camaras en Vivo",Muelle 1 - CamTV - Pinamar - BA Buenos Aires
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELPIN.png" group-title="Camaras en Vivo",Muelle 1 - Pinamar
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPINAM___CAMMUELLE1___
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELPIN.png" group-title="Camaras en Vivo",Muelle 2 - CamTV - Pinamar - BA Buenos Aires
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELPIN.png" group-title="Camaras en Vivo",Muelle 2 - Pinamar
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPINAM___CAMMUELLE2___
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELPIN.png" group-title="Camaras en Vivo",Pinamar Golf - CamTV - Pinamar - BA Buenos Aires
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELPIN.png" group-title="Camaras en Vivo",Pinamar Golf - Pinamar
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPINAM___CAMPINAMARGOL
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELPIN.png" group-title="Camaras en Vivo",Rambla 1 Ostende - CamTV - Pinamar - BA Buenos Aires
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELPIN.png" group-title="Camaras en Vivo",Rambla 1 Ostende - Pinamar
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPINAM___CAMRAMBLA1OST
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELPIN.png" group-title="Camaras en Vivo",Rambla 2 Ostende - CamTV - Pinamar - BA Buenos Aires
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELPIN.png" group-title="Camaras en Vivo",Rambla 2 Ostende - Pinamar
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPINAM___CAMRAMBLA2OST
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",Playa 1 - Ostende 
-https://wowza.telpin.com.ar:1935/camara-rambla/rambla.stream/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",Playa 2 - Ostende 
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELPIN.png" group-title="Camaras en Vivo",Playa 1 - Ostende 
+https://wowza.telpin.com.ar:1935/camara-rambla/rambla.stream/1.m3u8
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELPIN.png" group-title="Camaras en Vivo",Playa 2 - Ostende 
 https://wowza.telpin.com.ar:1935/camara-ramblaloft/ramblaloft.stream/1.m3u8
 
 ##### FIN PINAMAR
@@ -1020,17 +1010,17 @@ https://media.cotecal.com.ar/Glaciar_Cam/index.m3u8
 
 
 #### Comodoro Rivadavia - Chubut
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CRTUR.png" group-title="Camaras en Vivo",Centro I  Costanera - Cdro Rivadavia - CH Chubut
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CRTUR.png" group-title="Camaras en Vivo",Centro I  Costanera - Cdro Rivadavia - Chubut
 https://radiosargentina.com.ar/php/artvIP.php?id=ARCHCDRO____CAMCENTROICOS
 
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CRTUR.png" group-title="Camaras en Vivo",Centro II Costanera - Cdro Rivadavia - CH Chubut
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CRTUR.png" group-title="Camaras en Vivo",Centro II Costanera - Cdro Rivadavia - Chubut
 https://radiosargentina.com.ar/php/artvIP.php?id=ARCHCDRO____CAMCENTROIICO
 
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CRTUR.png" group-title="Camaras en Vivo",Caleta Córdova - CamTV - Cdro Rivadavia - CH Chubut
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CRTUR.png" group-title="Camaras en Vivo",Caleta Córdova - Cdro Rivadavia - Chubut
 https://radiosargentina.com.ar/php/artvIP.php?id=ARCHCDRO____CAMCALETACORD
 
 
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CRTUR.png" group-title="Camaras en Vivo",Náutico Km3 - CamTV - Cdro Rivadavia - CH Chubut
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CRTUR.png" group-title="Camaras en Vivo",Náutico Km3 - Cdro Rivadavia - Chubut
 https://radiosargentina.com.ar/php/artvIP.php?id=ARCHCDRO____CAMNAUTICOKM3
 
 ### FIN Comodoro Rivadavia
@@ -1051,38 +1041,38 @@ https://video.estadodelmar.com.ar/player/hguerrero2
 
 ##### FIN MAR DEL PLATA
 
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---EDP.png" group-title="Camaras en Vivo",Sierra de la Ventana - BA Buenos Aires
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---EDP.png" group-title="Camaras en Vivo",Sierra de la Ventana - Buenos Aires
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBASA_DE___CAMSIERRADELA
 
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--79TV.png" group-title="Camaras en Vivo",Canal 79 - 69CTV - S Clara del Mar - BA Buenos Aires
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--79TV.png" group-title="Camaras en Vivo",Clara del Mar - Buenos Aires
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAS_CLA___69CCANAL79___
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--79TV.png" group-title="Camaras en Vivo",ATCCO - 69CTV - San Cte del Tuyú - BA Buenos Aires
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--79TV.png" group-title="Camaras en Vivo",San Cte del Tuyú - Buenos Aires
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBASAN_C___69CATCCO_____
 
 
 
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---EDP.png" group-title="Camaras en Vivo",Cam1 Monte Hermoso - CamTV - Monte Hermoso - BA Buenos Aires
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---EDP.png" group-title="Camaras en Vivo",Monte Hermoso Cam1 - Buenos Aires
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAMONTE___CAMCAM1MONTEH
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---EDP.png" group-title="Camaras en Vivo",Cam2 Monte Hermoso - CamTV - Monte Hermoso - BA Buenos Aires
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---EDP.png" group-title="Camaras en Vivo",Monte Hermoso Cam2 - Buenos Aires
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAMONTE___CAMCAM2MONTEH
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---EDP.png" group-title="Camaras en Vivo",Cam1 Necochea - CamTV - Necochea - BA Buenos Aires
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---EDP.png" group-title="Camaras en Vivo",Necochea - Buenos Aires
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBANECOC___CAMCAM1NECOCH
 
 
 #### JUJUY
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-4TVJU.png" group-title="Camaras en Vivo",Camara 1 Canal 4 - CamTV - San S de Jujuy - JU Jujuy
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-4TVJU.png" group-title="Camaras en Vivo",Camara 1 - Jujuy
 https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S___CAMCAMARA1CAN
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-4TVJU.png" group-title="Camaras en Vivo",Camara 3 Canal 4 - CamTV - San S de Jujuy - JU Jujuy
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-4TVJU.png" group-title="Camaras en Vivo",Camara 3 - Jujuy
 https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S___CAMCAMARA3CAN
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-4TVJU.png" group-title="Camaras en Vivo",Camara 4 Canal 4 - CamTV - San S de Jujuy - JU Jujuy
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-4TVJU.png" group-title="Camaras en Vivo",Camara 4 - Jujuy
 https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S___CAMCAMARA4CAN
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-4TVJU.png" group-title="Camaras en Vivo",Camara 5 Canal 4 - CamTV - San S de Jujuy - JU Jujuy
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-4TVJU.png" group-title="Camaras en Vivo",Camara 5 - Jujuy
 https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S___CAMCAMARA5CAN
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-4TVJU.png" group-title="Camaras en Vivo",Camara 6 Canal 4 - CamTV - San S de Jujuy - JU Jujuy
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-4TVJU.png" group-title="Camaras en Vivo",Camara 6 - Jujuy
 https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S___CAMCAMARA6CAN
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-4TVJU.png" group-title="Camaras en Vivo",Camara 7 Canal 4 - CamTV - San S de Jujuy - JU Jujuy
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-4TVJU.png" group-title="Camaras en Vivo",Camara 7 - Jujuy
 https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S___CAMCAMARA7CAN
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-4TVJU.png" group-title="Camaras en Vivo",Camara 8 Canal 4 - CamTV - San S de Jujuy - JU Jujuy
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-4TVJU.png" group-title="Camaras en Vivo",Camara 8 - Jujuy
 https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S___CAMCAMARA8CAN
 
 ### FIN JUJUY
