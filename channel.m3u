@@ -1069,6 +1069,25 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARBAMONTE___CAMCAM2MONTEH
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBANECOC___CAMCAM1NECOCH
 
 
+#### JUJUY
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-4TVJU.png" group-title="Camaras en Vivo",Camara 1 Canal 4 - CamTV - San S de Jujuy - JU Jujuy
+https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S___CAMCAMARA1CAN
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-4TVJU.png" group-title="Camaras en Vivo",Camara 3 Canal 4 - CamTV - San S de Jujuy - JU Jujuy
+https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S___CAMCAMARA3CAN
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-4TVJU.png" group-title="Camaras en Vivo",Camara 4 Canal 4 - CamTV - San S de Jujuy - JU Jujuy
+https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S___CAMCAMARA4CAN
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-4TVJU.png" group-title="Camaras en Vivo",Camara 5 Canal 4 - CamTV - San S de Jujuy - JU Jujuy
+https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S___CAMCAMARA5CAN
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-4TVJU.png" group-title="Camaras en Vivo",Camara 6 Canal 4 - CamTV - San S de Jujuy - JU Jujuy
+https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S___CAMCAMARA6CAN
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-4TVJU.png" group-title="Camaras en Vivo",Camara 7 Canal 4 - CamTV - San S de Jujuy - JU Jujuy
+https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S___CAMCAMARA7CAN
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-4TVJU.png" group-title="Camaras en Vivo",Camara 8 Canal 4 - CamTV - San S de Jujuy - JU Jujuy
+https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S___CAMCAMARA8CAN
+
+### FIN JUJUY
+
+
 #### FIN CAMARAS EN VIVO
 
 
@@ -1110,6 +1129,16 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-name="RTVE 24H" tvg-logo="https://i.imgur.com/WTDKOoM.png" tvg-id="rtve.es" tvg-chno="6" group-title="Internacional",RTVE 24H
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-ESTRE.png" group-title="Internacional",Estrella Games - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CESTRELLAGA
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-ESTRE.png" group-title="Internacional",Estrella News - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CESTRELLANE
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-ESTRE.png" group-title="Internacional",Estrella TV - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CESTRELLATV
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---FTV.png" group-title="Internacional",Fashion TV - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CFASHIONTV_
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--FOXN.png" group-title="Internacional",FOX News - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CFOXNEWS___
 
 #### INTERNACIONAL
 
@@ -1788,6 +1817,9 @@ https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4Jujuy.ar@SD" tvg-logo="https://i.imgur.com/qB6I274.png" group-title="Argentina Interior",Canal 4 Jujuy
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LW80.png" group-title="Argentina Interior",LW80 Canal 7 - 36.1TV - San S de Jujuy - JU Jujuy
+https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S__36.1LW80CANAL7
+
 #EXTINF:-1 tvg-id="Canal4Posadas.ar@SD" tvg-logo="https://i.imgur.com/tElJr3e.png" group-title="Argentina Interior",Canal 4 Posadas (576p)
 https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4SanJuan.ar@SD" tvg-logo="https://i.imgur.com/MsCnwRA.png" group-title="Argentina Interior",Canal 4 San Juan (576p)
@@ -1855,10 +1887,13 @@ https://www.youtube.com/watch?v=ArKbAx1K-2U
 
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LS85.png" group-title="Radio CD Cd Aut Bs As",LS85 El Trece - 33.1TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__33.1LS85ELTREC
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELEFE.png" group-title="Radio CD Cd Aut Bs As",LS84 Telefe 11 - 34.1TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__34.1LS84TELEFE
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-MARIA.png" group-title="Radio CD Cd Aut Bs As",Maria - 88.5 TV - CABA FM - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_88.5_MARIA_____
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIVORTER.png" group-title="Radio CD Cd Aut Bs As",Vorterix - 92.1 TV - CABA FM - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_92.1_VORTERIX__
+
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRL331.png" group-title="Radio CD Cd Aut Bs As",LRL331 Jai - 96.3 TV - CABA FM - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_96.3_LRL331JAI_
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---Z80.png" group-title="Radio CD Cd Aut Bs As",Z80 Radio - 96.5 TV - CABA FM - CD Cd Aut Bs As
@@ -1869,34 +1904,26 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA101.1_LRL318LATI
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA102.1_LAPATRIADA
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---AMC.png" group-title="Radio CD Cd Aut Bs As",AMC - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CAMC_______
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-ARGTV.png" group-title="Radio CD Cd Aut Bs As",Argentinisima - CTV - CABA TV Cable - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CARGENTINIS
+
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIBSHARK.png" group-title="Radio CD Cd Aut Bs As",Baby Shark - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CBABYSHARK_
+
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIBLOOMB.png" group-title="Radio CD Cd Aut Bs As",Bloomberg - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CBLOOMBERG_
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIBLOOMB.png" group-title="Radio CD Cd Aut Bs As",Bloomberg Quicktake - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CBLOOMBERGQ
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----DW.png" group-title="Radio CD Cd Aut Bs As",DW Español - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CDWESPANOL_
+
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICDADAB.png" group-title="Radio CD Cd Aut Bs As",Canal de la Ciudad - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CCANALDELAC
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----CM.png" group-title="Radio CD Cd Aut Bs As",Canal de la Musica - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CCANALDELAM
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--CGTN.png" group-title="Radio CD Cd Aut Bs As",CGTN Espanol - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CCGTNESPANO
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----DW.png" group-title="Radio CD Cd Aut Bs As",DW Español - CTV - CABA TV Cable - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CDWESPANOL_
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-ESTRE.png" group-title="Radio CD Cd Aut Bs As",Estrella Games - CTV - CABA TV Cable - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CESTRELLAGA
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-ESTRE.png" group-title="Radio CD Cd Aut Bs As",Estrella News - CTV - CABA TV Cable - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CESTRELLANE
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-ESTRE.png" group-title="Radio CD Cd Aut Bs As",Estrella TV - CTV - CABA TV Cable - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CESTRELLATV
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---FTV.png" group-title="Radio CD Cd Aut Bs As",Fashion TV - CTV - CABA TV Cable - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CFASHIONTV_
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--FOXN.png" group-title="Radio CD Cd Aut Bs As",FOX News - CTV - CABA TV Cable - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CFOXNEWS___
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGALICI.png" group-title="Radio CD Cd Aut Bs As",Galicia TV - CTV - CABA TV Cable - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CGALICIATV_
+
+
+
 
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIHISPAN.png" group-title="Radio CD Cd Aut Bs As",Hispan TV - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CHISPANTV__
@@ -1906,8 +1933,7 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CMUSICTOP__
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CNHKWORLD__
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITIEMIA.png" group-title="Radio CD Cd Aut Bs As",TierraMia - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CTIERRAMIA_
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----TN.png" group-title="Radio CD Cd Aut Bs As",TN Todo Noticias - CTV - CABA TV Cable - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CTNTODONOTI
+
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITVE24h.png" group-title="Radio CD Cd Aut Bs As",TVE 24h - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CTVE24H____
 
@@ -1927,22 +1953,17 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__21.1CARASTV___
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__21.2LRL456ORBE
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICINEAR.png" group-title="Radio CD Cd Aut Bs As",CINE.AR - 22.4TV - CABA TV TDA - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__22.4CINE.AR___
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---TVP.png" group-title="Radio CD Cd Aut Bs As",LS82 TVP - 23.2TV - CABA TV TDA - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__23.2LS82TVP___
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICRONIC.png" group-title="Radio CD Cd Aut Bs As",Cronica - 24.4TV - CABA TV TDA - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__24.4CRONICA___
+
+
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-UNIFE.png" group-title="Radio CD Cd Aut Bs As",UNIFE - 25.1TV - CABA TV TDA - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__25.1UNIFE_____
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----LN.png" group-title="Radio CD Cd Aut Bs As",LN+ - 25.3TV - CABA TV TDA - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__25.3LN________
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELESU.png" group-title="Radio CD Cd Aut Bs As",Telesur - 25.4TV - CABA TV TDA - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__25.4TELESUR___
+
+
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----RT.png" group-title="Radio CD Cd Aut Bs As",RT - 25.5TV - CABA TV TDA - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__25.5RT________
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICANALE.png" group-title="Radio CD Cd Aut Bs As",Canal-E - 25.6TV - CABA TV TDA - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__25.6CANAL-E___
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--26TV.png" group-title="Radio CD Cd Aut Bs As",Canal 26 - 26.1TV - CABA TV TDA - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__26.1CANAL26___
+
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---TLX.png" group-title="Radio CD Cd Aut Bs As",Telemax - 26.3TV - CABA TV TDA - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__26.3TELEMAX___
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-BRAVO.png" group-title="Radio CD Cd Aut Bs As",Bravo TV - 27.1TV - CABA TV TDA - CD Cd Aut Bs As
@@ -1951,14 +1972,8 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__27.1BRAVOTV___
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__27.2NETTV_____
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIURTEVE.png" group-title="Radio CD Cd Aut Bs As",Urbana TeVe - 32.2TV - CABA TV TDA - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__32.2URBANATEVE
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LS85.png" group-title="Radio CD Cd Aut Bs As",LS85 El Trece - 33.1TV - CABA TV TDA - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__33.1LS85ELTREC
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELEFE.png" group-title="Radio CD Cd Aut Bs As",LS84 Telefe 11 - 34.1TV - CABA TV TDA - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__34.1LS84TELEFE
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LS86.png" group-title="Radio CD Cd Aut Bs As",LS86 America - 36.1TV - CABA TV TDA - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__36.1LS86AMERIC
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---A24.png" group-title="Radio CD Cd Aut Bs As",A24 - 36.3TV - CABA TV TDA - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__36.3A24_______
+
+
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIALERTN.png" group-title="Radio CD Cd Aut Bs As",AN24 TV - WebTV - CABA TV Web - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA___WEBAN24TV____
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---C22.png" group-title="Radio CD Cd Aut Bs As",Canal 22 - WebTV - CABA TV Web - CD Cd Aut Bs As
@@ -2303,26 +2318,12 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARFOFORMO____3_FTC_______
 https://radiosargentina.com.ar/php/artvDI.php?id=ARFOFORMO___WEBSUBLIMEGRA
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LT88.png" group-title="Radio FO Formosa",LT88 Lapacho 11 - 29.1TV - Formosa - FO Formosa
 https://radiosargentina.com.ar/php/artvDI.php?id=ARFOFORMO__29.1LT88LAPACH
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-4TVJU.png" group-title="Radio JU Jujuy",Canal 4 - 4CTV - San S de Jujuy - JU Jujuy
-https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S____4CCANAL4____
+
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI13TVJU.png" group-title="Radio JU Jujuy",Canal 13 - 13 TV - San S de Jujuy - JU Jujuy
 https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S___13_CANAL13___
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-4TVJU.png" group-title="Radio JU Jujuy",Camara 1 Canal 4 - CamTV - San S de Jujuy - JU Jujuy
-https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S___CAMCAMARA1CAN
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-4TVJU.png" group-title="Radio JU Jujuy",Camara 3 Canal 4 - CamTV - San S de Jujuy - JU Jujuy
-https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S___CAMCAMARA3CAN
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-4TVJU.png" group-title="Radio JU Jujuy",Camara 4 Canal 4 - CamTV - San S de Jujuy - JU Jujuy
-https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S___CAMCAMARA4CAN
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-4TVJU.png" group-title="Radio JU Jujuy",Camara 5 Canal 4 - CamTV - San S de Jujuy - JU Jujuy
-https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S___CAMCAMARA5CAN
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-4TVJU.png" group-title="Radio JU Jujuy",Camara 6 Canal 4 - CamTV - San S de Jujuy - JU Jujuy
-https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S___CAMCAMARA6CAN
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-4TVJU.png" group-title="Radio JU Jujuy",Camara 7 Canal 4 - CamTV - San S de Jujuy - JU Jujuy
-https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S___CAMCAMARA7CAN
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-4TVJU.png" group-title="Radio JU Jujuy",Camara 8 Canal 4 - CamTV - San S de Jujuy - JU Jujuy
-https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S___CAMCAMARA8CAN
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LW80.png" group-title="Radio JU Jujuy",LW80 Canal 7 - 36.1TV - San S de Jujuy - JU Jujuy
-https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S__36.1LW80CANAL7
+
+
+
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIMAXSSJ.png" group-title="Radio JU Jujuy",Maxima - 99.7 TV - San S de Jujuy - JU Jujuy
 https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S_99.7_MAXIMA____
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-RCITY.png" group-title="Radio JU Jujuy",LRK923 Radio City - 107.1 TV - San S de Jujuy - JU Jujuy
