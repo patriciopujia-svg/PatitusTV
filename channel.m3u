@@ -2320,24 +2320,23 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARFOFORMO___WEBSUBLIMEGRA
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LT88.png" group-title="Radio FO Formosa",LT88 Lapacho 11 - 29.1TV - Formosa - FO Formosa
 https://radiosargentina.com.ar/php/artvDI.php?id=ARFOFORMO__29.1LT88LAPACH
 
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI13TVJU.png" group-title="Radio JU Jujuy",Canal 13 - 13 TV - San S de Jujuy - JU Jujuy
+
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI13TVJU.png" group-title="Radio Jujuy",Canal 13 - 13 TV - San S de Jujuy - JU Jujuy
 https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S___13_CANAL13___
-
-
-
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIMAXSSJ.png" group-title="Radio JU Jujuy",Maxima - 99.7 TV - San S de Jujuy - JU Jujuy
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIMAXSSJ.png" group-title="Radio Jujuy",Maxima - 99.7 TV - San S de Jujuy - JU Jujuy
 https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S_99.7_MAXIMA____
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-RCITY.png" group-title="Radio JU Jujuy",LRK923 Radio City - 107.1 TV - San S de Jujuy - JU Jujuy
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-RCITY.png" group-title="Radio Jujuy",LRK923 Radio City - 107.1 TV - San S de Jujuy - JU Jujuy
 https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S107.1_LRK923RADI
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--TVCO.png" group-title="Radio LP La Pampa",TVCO - ITV - General Pico - LP La Pampa
+
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--TVCO.png" group-title="Radio La Pampa",TVCO - ITV - General Pico - LP La Pampa
 https://radiosargentina.com.ar/php/artvDI.php?id=ARLPGENER_____ITVCO______
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-LDMTV.png" group-title="Radio LP La Pampa",LDM tv - CTV - Santa Rosa - LP La Pampa
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-LDMTV.png" group-title="Radio La Pampa",LDM tv - CTV - Santa Rosa - LP La Pampa
 https://radiosargentina.com.ar/php/artvDI.php?id=ARLPSANTA_____CLDMTV_____
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VISOMOLP.png" group-title="Radio LP La Pampa",Somos La Pampa - CTV - Santa Rosa - LP La Pampa
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VISOMOLP.png" group-title="Radio La Pampa",Somos La Pampa - CTV - Santa Rosa - LP La Pampa
 https://radiosargentina.com.ar/php/artvDI.php?id=ARLPSANTA_____CSOMOSLAPAM
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CPETV.png" group-title="Radio LP La Pampa",CPEtv - 2CTV - Santa Rosa - LP La Pampa
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CPETV.png" group-title="Radio La Pampa",CPEtv - 2CTV - Santa Rosa - LP La Pampa
 https://radiosargentina.com.ar/php/artvDI.php?id=ARLPSANTA____2CCPETV_____
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LU89.png" group-title="Radio LP La Pampa",LU89 Canal 3 - 30.1TV - Santa Rosa - LP La Pampa
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LU89.png" group-title="Radio La Pampa",LU89 Canal 3 - 30.1TV - Santa Rosa - LP La Pampa
 https://radiosargentina.com.ar/php/artvDI.php?id=ARLPSANTA__30.1LU89CANAL3
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITV5CHE.png" group-title="Radio LR La Rioja",TV Chepes - 5 TV - Chepes - LR La Rioja
 https://radiosargentina.com.ar/php/artvDI.php?id=ARLRCHEPE____5_TVCHEPES__
