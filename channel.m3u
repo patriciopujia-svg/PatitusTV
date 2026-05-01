@@ -950,7 +950,7 @@ https://wowza.telpin.com.ar:1935/camara-ramblaloft/ramblaloft.stream/1.m3u8
 
 ##### SANTA CRUZ
 
-#EXTINF:-1 tvg-logo="https://www.santacruz.gob.ar/imagenes/santacruz-redes.png" group-title="Camaras en Vivo", Glaciar Perito Moreno - Santa Cruz
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICOTECA.png" group-title="Camaras en Vivo", Glaciar Perito Moreno - Santa Cruz
 https://media.cotecal.com.ar/Glaciar_Cam/index.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICOTECA.png" group-title="Camaras en Vivo",Glciar Perito Moreno - El Calafate - Santa Cruz
 https://radiosargentina.com.ar/php/artvDI.php?id=ARSCEL_CA___CAMGLCIARPERI
@@ -2319,25 +2319,25 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARLRLA_RI___13_CANAL13___
 https://radiosargentina.com.ar/php/artvDI.php?id=ARLRLA_RI__29.1LV91RTR9__
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIFIESLR.png" group-title="Radio LR La Rioja",Fiesta - 99.3 TV - La Rioja - LR La Rioja
 https://radiosargentina.com.ar/php/artvDI.php?id=ARLRLA_RI_99.3_FIESTA____
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIJAR879.png" group-title="Radio ME Mendoza",Jardin - 87.9 TV - Junin - ME Mendoza
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIJAR879.png" group-title="Radio Mendoza",Jardin - 87.9 TV - Junin - ME Mendoza
 https://radiosargentina.com.ar/php/artvDI.php?id=ARMEJUNIN_87.9_JARDIN____
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIUL1047.png" group-title="Radio ME Mendoza",Unidos en Libertad - 104.7 TV - Maipú - ME Mendoza
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIUL1047.png" group-title="Radio Mendoza",Unidos en Libertad - 104.7 TV - Maipú - ME Mendoza
 https://radiosargentina.com.ar/php/artvDI.php?id=ARMEMAIPU104.7_UNIDOSENLI
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---JTV.png" group-title="Radio ME Mendoza",JTA TV - 21.1TV - Mendoza - ME Mendoza
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---JTV.png" group-title="Radio Mendoza",JTA TV - 21.1TV - Mendoza - ME Mendoza
 https://radiosargentina.com.ar/php/artvDI.php?id=ARMEMENDO__21.1JTATV_____
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LV83.png" group-title="Radio ME Mendoza",LV83 Televida 9 - 28.1TV - Mendoza - ME Mendoza
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LV83.png" group-title="Radio Mendoza",LV83 Televida 9 - 28.1TV - Mendoza - ME Mendoza
 https://radiosargentina.com.ar/php/artvDI.php?id=ARMEMENDO__28.1LV83TELEVI
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VISENALM.png" group-title="Radio ME Mendoza",Señal U - 30.1TV - Mendoza - ME Mendoza
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VISENALM.png" group-title="Radio Mendoza",Señal U - 30.1TV - Mendoza - ME Mendoza
 https://radiosargentina.com.ar/php/artvDI.php?id=ARMEMENDO__30.1SENALU____
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIAURARG.png" group-title="Radio ME Mendoza",Aurora Argentina - 91.3 TV - Mendoza - ME Mendoza
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIAURARG.png" group-title="Radio Mendoza",Aurora Argentina - 91.3 TV - Mendoza - ME Mendoza
 https://radiosargentina.com.ar/php/artvDI.php?id=ARMEMENDO_91.3_AURORAARGE
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRJ362.png" group-title="Radio ME Mendoza",LRJ362 Amadeus - 91.9 TV - Rivadavia - ME Mendoza
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRJ362.png" group-title="Radio Mendoza",LRJ362 Amadeus - 91.9 TV - Rivadavia - ME Mendoza
 https://radiosargentina.com.ar/php/artvDI.php?id=ARMERIVAD_91.9_LRJ362AMAD
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICIUDME.png" group-title="Radio ME Mendoza",Ciudad - 90.5 TV - San Martín - ME Mendoza
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICIUDME.png" group-title="Radio Mendoza",Ciudad - 90.5 TV - San Martín - ME Mendoza
 https://radiosargentina.com.ar/php/artvDI.php?id=ARMESAN_M_90.5_CIUDAD____
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIDIALTV.png" group-title="Radio ME Mendoza",LRJ818 Dial - 101.1 TV - San Rafael - ME Mendoza
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIDIALTV.png" group-title="Radio Mendoza",LRJ818 Dial - 101.1 TV - San Rafael - ME Mendoza
 https://radiosargentina.com.ar/php/artvDI.php?id=ARMESAN_R101.1_LRJ818DIAL
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--8VDU.png" group-title="Radio ME Mendoza",Valle de Uco - 8 TV - Tunuyán - ME Mendoza
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--8VDU.png" group-title="Radio Mendoza",Valle de Uco - 8 TV - Tunuyán - ME Mendoza
 https://radiosargentina.com.ar/php/artvDI.php?id=ARMETUNUY____8_VALLEDEUCO
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIFULLTV.png" group-title="Radio MI Misiones",Full TV - 4CTV - 25 de Mayo - MI Misiones
 https://radiosargentina.com.ar/php/artvDI.php?id=ARMI25_DE____4CFULLTV____
