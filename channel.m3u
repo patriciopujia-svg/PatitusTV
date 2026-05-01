@@ -947,28 +947,28 @@ https://wowza.telpin.com.ar:1935/camara-hemingway/hemingway.stream/1.m3u8
 
 ##### PINAMAR
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/45/1/bandera-del-partido-de-pinamar-logo-png_seeklogo-455634.png" group-title="Camaras en Vivo",Botavara - Pinamar
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Bandera_de_la_localidad_de_Pinamar.png" group-title="Camaras en Vivo",Botavara - Pinamar
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPINAM___CAMBOTAVARA__
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Bandera_de_la_localidad_de_Pinamar.png" group-title="Camaras en Vivo",Bunge y El Mar - Pinamar
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPINAM___CAMBUNGEYELMA
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELPIN.png" group-title="Camaras en Vivo",Bunge y Libertador - Pinamar
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Bandera_de_la_localidad_de_Pinamar.png" group-title="Camaras en Vivo",Bunge y Libertador - Pinamar
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPINAM___CAMBUNGEYLIBE
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELPIN.png" group-title="Camaras en Vivo",Hemingway - Pinamar 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Bandera_de_la_localidad_de_Pinamar.png" group-title="Camaras en Vivo",Hemingway - Pinamar 
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPINAM___CAMHEMINGWAY_
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELPIN.png" group-title="Camaras en Vivo",Muelle 1 - Pinamar
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Bandera_de_la_localidad_de_Pinamar.png" group-title="Camaras en Vivo",Muelle 1 - Pinamar
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPINAM___CAMMUELLE1___
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELPIN.png" group-title="Camaras en Vivo",Muelle 2 - Pinamar
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Bandera_de_la_localidad_de_Pinamar.png" group-title="Camaras en Vivo",Muelle 2 - Pinamar
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPINAM___CAMMUELLE2___
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELPIN.png" group-title="Camaras en Vivo",Pinamar Golf - Pinamar
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Bandera_de_la_localidad_de_Pinamar.png" group-title="Camaras en Vivo",Pinamar Golf - Pinamar
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPINAM___CAMPINAMARGOL
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELPIN.png" group-title="Camaras en Vivo",Rambla 1 Ostende - Pinamar
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Bandera_de_la_localidad_de_Pinamar.png" group-title="Camaras en Vivo",Rambla 1 Ostende - Pinamar
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPINAM___CAMRAMBLA1OST
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELPIN.png" group-title="Camaras en Vivo",Rambla 2 Ostende - Pinamar
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Bandera_de_la_localidad_de_Pinamar.png" group-title="Camaras en Vivo",Rambla 2 Ostende - Pinamar
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPINAM___CAMRAMBLA2OST
 
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELPIN.png" group-title="Camaras en Vivo",Playa 1 - Ostende 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Bandera_de_la_localidad_de_Pinamar.png" group-title="Camaras en Vivo",Playa 1 - Ostende 
 https://wowza.telpin.com.ar:1935/camara-rambla/rambla.stream/1.m3u8
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELPIN.png" group-title="Camaras en Vivo",Playa 2 - Ostende 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Bandera_de_la_localidad_de_Pinamar.png" group-title="Camaras en Vivo",Playa 2 - Ostende 
 https://wowza.telpin.com.ar:1935/camara-ramblaloft/ramblaloft.stream/1.m3u8
 
 ##### FIN PINAMAR
@@ -976,15 +976,15 @@ https://wowza.telpin.com.ar:1935/camara-ramblaloft/ramblaloft.stream/1.m3u8
 
 
 
-#####Santa Cruz
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo", El Chalten - Santa Cruz
+##### SANTA CRUZ
+#EXTINF:-1 tvg-logo="https://www.santacruz.gob.ar/imagenes/santacruz-redes.png" group-title="Camaras en Vivo", El Chalten - Santa Cruz
 https://radiosargentina.com.ar/arcltv.html?var1=https://media.cotecal.com.ar/Chalten_Cam/video.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo", Glaciar Perito Moreno - Santa Cruz
+#EXTINF:-1 tvg-logo="https://www.santacruz.gob.ar/imagenes/santacruz-redes.png" group-title="Camaras en Vivo", Glaciar Perito Moreno - Santa Cruz
 https://media.cotecal.com.ar/Glaciar_Cam/index.m3u8
 
-#####Fin Santa Cruz
+##### FIN SANTA CRUZ
 
 
 #### CHUBUT
