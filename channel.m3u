@@ -116,7 +116,7 @@ https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI999MDQ.png" group-title="Argentina Radios",99.9 Radio - 99.9 TV - Mar del Plata - Camaras en Vivo
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAMAR_D_99.9_99.9RADIO_
 
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIVORMDQ.png" group-title="Argentina Radios",Vorterix :( - 104.5 TV - Mar del Plata - Camaras en Vivo
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIVORMDQ.png" group-title="Argentina Radios",Vorterix - 104.5 TV - Mar del Plata - Camaras en Vivo
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAMAR_D104.5_VORTERIX__
 
 #EXTINF:-1 tvg-id="" tvg-name="Radio La 100" group-title="Argentina Radios" tvg-logo="https://i.ibb.co/yFqTXRTC/CZJMM4-BJVRFANO4-VGMMYWSTEVE.webp", Radio La 100
@@ -947,9 +947,9 @@ https://wowza.telpin.com.ar:1935/camara-hemingway/hemingway.stream/1.m3u8
 
 ##### PINAMAR
 
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELPIN.png" group-title="Camaras en Vivo",Botavara - Pinamar
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/45/1/bandera-del-partido-de-pinamar-logo-png_seeklogo-455634.png" group-title="Camaras en Vivo",Botavara - Pinamar
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPINAM___CAMBOTAVARA__
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELPIN.png" group-title="Camaras en Vivo",Bunge y El Mar - Pinamar
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Bandera_de_la_localidad_de_Pinamar.png" group-title="Camaras en Vivo",Bunge y El Mar - Pinamar
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPINAM___CAMBUNGEYELMA
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELPIN.png" group-title="Camaras en Vivo",Bunge y Libertador - Pinamar
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPINAM___CAMBUNGEYLIBE
@@ -974,46 +974,6 @@ https://wowza.telpin.com.ar:1935/camara-ramblaloft/ramblaloft.stream/1.m3u8
 ##### FIN PINAMAR
 
 
-###### Neuquen
-#EXTINF:-1 tvg-name="camaras.neuquencapital" tvg-logo="https://radiosargentina.com.ar/png/VINEUCAP.png" group-title="Camaras en Vivo", Puente Rio Limay - Neuquén
-https://camaras.neuquencapital.gov.ar/live/puente-riolimay.m3u8
-
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINEUCAP.png" group-title="Camaras en Vivo", Ciudad 1 - Neuquén
-https://camaras.neuquencapital.gov.ar/live/canal7.m3u8
-
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINEUCAP.png" group-title="Camaras en Vivo", Isla 132 - Neuquén
-https://camaras.neuquencapital.gov.ar/live/isla132.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINEUCAP.png" group-title="Camaras en Vivo", Rotonda Rio Limay - Neuquén
-https://camaras.neuquencapital.gov.ar/live/rotonda-riolimay.m3u8
-
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINEUCAP.png group-title="Camaras en Vivo", San Martin 1 - Neuquén
-https://camaras.neuquencapital.gov.ar/live/monumento-calle.m3u8
-
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINEUCAP.png" group-title="Camaras en Vivo", San Martin 2 - Neuquén
-https://camaras.neuquencapital.gov.ar/live/monumento-calle.m3u8
-
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINEUCAP.png" group-title="Radio Neuquen",Baln Sandra Canale - Neuquén
-https://radiosargentina.com.ar/php/artvDI.php?id=ARNQNEUQU___CAMBALNSANDRA
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINEUCAP.png" group-title="Radio Neuquen",Canal 7 - Neuquén
-https://radiosargentina.com.ar/php/artvDI.php?id=ARNQNEUQU___CAMCANAL7____
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINEUCAP.png" group-title="Radio Neuquen",Isla 132 - Neuquén
-https://radiosargentina.com.ar/php/artvDI.php?id=ARNQNEUQU___CAMISLA132___
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINEUCAP.png" group-title="Radio Neuquen",Mirador Río Neuquín - Neuquén
-https://radiosargentina.com.ar/php/artvDI.php?id=ARNQNEUQU___CAMMIRADORRIO
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINEUCAP.png" group-title="Radio Neuquen",Parque Central - Neuquén
-https://radiosargentina.com.ar/php/artvDI.php?id=ARNQNEUQU___CAMPARQUECENT
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINEUCAP.png" group-title="Radio Neuquen",Puente Río Limay - Neuquén
-https://radiosargentina.com.ar/php/artvDI.php?id=ARNQNEUQU___CAMPUENTERIOL
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINEUCAP.png" group-title="Radio Neuquen",Rotonda Río Limay - Neuquén
-https://radiosargentina.com.ar/php/artvDI.php?id=ARNQNEUQU___CAMROTONDARIO
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINEUCAP.png" group-title="Radio Neuquen",San Martín 1 - Neuquén
-https://radiosargentina.com.ar/php/artvDI.php?id=ARNQNEUQU___CAMSANMARTIN1
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINEUCAP.png" group-title="Radio Neuquen",San Martín 2 - Neuquén
-https://radiosargentina.com.ar/php/artvDI.php?id=ARNQNEUQU___CAMSANMARTIN2
-
-#####Fin Neuquen
 
 
 #####Santa Cruz
@@ -1040,7 +1000,6 @@ https://radiosargentina.com.ar/php/artvIP.php?id=ARCHCDRO____CAMCENTROIICO
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CRTUR.png" group-title="Camaras en Vivo",Caleta Córdova - Cdro Rivadavia - Chubut
 https://radiosargentina.com.ar/php/artvIP.php?id=ARCHCDRO____CAMCALETACORD
 
-
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CRTUR.png" group-title="Camaras en Vivo",Náutico Km3 - Cdro Rivadavia - Chubut
 https://radiosargentina.com.ar/php/artvIP.php?id=ARCHCDRO____CAMNAUTICOKM3
 
@@ -1065,7 +1024,7 @@ https://video.estadodelmar.com.ar/player/hguerrero2
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---EDP.png" group-title="Camaras en Vivo",Sierra de la Ventana - Buenos Aires
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBASA_DE___CAMSIERRADELA
 
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--79TV.png" group-title="Camaras en Vivo",Clara del Mar - Buenos Aires
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--79TV.png" group-title="Camaras en Vivo",Santa Clara del Mar - Buenos Aires
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAS_CLA___69CCANAL79___
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--79TV.png" group-title="Camaras en Vivo",San Cte del Tuyú - Buenos Aires
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBASAN_C___69CATCCO_____
@@ -1095,8 +1054,49 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S___CAMCAMARA6CAN
 https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S___CAMCAMARA7CAN
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-4TVJU.png" group-title="Camaras en Vivo",Camara 8 - Jujuy
 https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S___CAMCAMARA8CAN
-
 ### FIN JUJUY
+
+
+###### Neuquen
+#EXTINF:-1 tvg-name="camaras.neuquencapital" tvg-logo="https://radiosargentina.com.ar/png/VINEUCAP.png" group-title="Camaras en Vivo", Puente Rio Limay - Neuquén
+https://camaras.neuquencapital.gov.ar/live/puente-riolimay.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINEUCAP.png" group-title="Camaras en Vivo", Ciudad 1 - Neuquén
+https://camaras.neuquencapital.gov.ar/live/canal7.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINEUCAP.png" group-title="Camaras en Vivo", Isla 132 - Neuquén
+https://camaras.neuquencapital.gov.ar/live/isla132.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINEUCAP.png" group-title="Camaras en Vivo", Rotonda Rio Limay - Neuquén
+https://camaras.neuquencapital.gov.ar/live/rotonda-riolimay.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINEUCAP.png" group-title="Camaras en Vivo", San Martin 1 - Neuquén
+https://camaras.neuquencapital.gov.ar/live/monumento-calle.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINEUCAP.png" group-title="Camaras en Vivo", San Martin 2 - Neuquén
+https://camaras.neuquencapital.gov.ar/live/monumento-calle.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINEUCAP.png" group-title="Radio Neuquen",Baln Sandra Canale - Neuquén
+https://radiosargentina.com.ar/php/artvDI.php?id=ARNQNEUQU___CAMBALNSANDRA
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINEUCAP.png" group-title="Radio Neuquen",Canal 7 - Neuquén
+https://radiosargentina.com.ar/php/artvDI.php?id=ARNQNEUQU___CAMCANAL7____
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINEUCAP.png" group-title="Radio Neuquen",Isla 132 - Neuquén
+https://radiosargentina.com.ar/php/artvDI.php?id=ARNQNEUQU___CAMISLA132___
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINEUCAP.png" group-title="Radio Neuquen",Mirador Río Neuquín - Neuquén
+https://radiosargentina.com.ar/php/artvDI.php?id=ARNQNEUQU___CAMMIRADORRIO
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINEUCAP.png" group-title="Radio Neuquen",Parque Central - Neuquén
+https://radiosargentina.com.ar/php/artvDI.php?id=ARNQNEUQU___CAMPARQUECENT
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINEUCAP.png" group-title="Radio Neuquen",Puente Río Limay - Neuquén
+https://radiosargentina.com.ar/php/artvDI.php?id=ARNQNEUQU___CAMPUENTERIOL
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINEUCAP.png" group-title="Radio Neuquen",Rotonda Río Limay - Neuquén
+https://radiosargentina.com.ar/php/artvDI.php?id=ARNQNEUQU___CAMROTONDARIO
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINEUCAP.png" group-title="Radio Neuquen",San Martín 1 - Neuquén
+https://radiosargentina.com.ar/php/artvDI.php?id=ARNQNEUQU___CAMSANMARTIN1
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINEUCAP.png" group-title="Radio Neuquen",San Martín 2 - Neuquén
+https://radiosargentina.com.ar/php/artvDI.php?id=ARNQNEUQU___CAMSANMARTIN2
+
+#####Fin Neuquen
 
 
 #### FIN CAMARAS EN VIVO
@@ -2169,17 +2169,18 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARBAZARAT_90.1_FULLMEDIOS
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-ROCKZ.png" group-title="Radio Buenos Aires",Rock - 103.3 TV - Zárate - BA Buenos Aires
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAZARAT103.3_ROCK______
 
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--C11M.png" group-title="Radio CC Chaco",Canal Once - 11 TV - Machagai - CC Chaco
+
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--C11M.png" group-title="Radio Chaco",Canal Once - 11 TV - Machagai - CC Chaco
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCCMACHA___11_CANALONCE_
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VISUNOTV.png" group-title="Radio CC Chaco",Somos Uno - 26.1TV - Resistencia - CC Chaco
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VISUNOTV.png" group-title="Radio Chaco",Somos Uno - 26.1TV - Resistencia - CC Chaco
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCCRESIS__26.1SOMOSUNO__
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICIURES.png" group-title="Radio CC Chaco",Ciudad TV - 27.1TV - Resistencia - CC Chaco
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICIURES.png" group-title="Radio Chaco",Ciudad TV - 27.1TV - Resistencia - CC Chaco
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCCRESIS__27.1CIUDADTV__
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----NG.png" group-title="Radio CC Chaco",NG Federal - 27.2TV - Resistencia - CC Chaco
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----NG.png" group-title="Radio Chaco",NG Federal - 27.2TV - Resistencia - CC Chaco
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCCRESIS__27.2NGFEDERAL_
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICC2802.png" group-title="Radio CC Chaco",CHTV - 29.1TV - Resistencia - CC Chaco
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICC2802.png" group-title="Radio Chaco",CHTV - 29.1TV - Resistencia - CC Chaco
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCCRESIS__29.1CHTV______
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIRESIST.png" group-title="Radio CC Chaco",Resistencia - 90.3 TV - Resistencia - CC Chaco
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIRESIST.png" group-title="Radio Chaco",Resistencia - 90.3 TV - Resistencia - CC Chaco
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCCRESIS_90.3_RESISTENCI
 
 
