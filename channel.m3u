@@ -942,7 +942,7 @@ https://wowza.telpin.com.ar:1935/camara-muelle/muelle.stream/1.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Camaras en Vivo",Playa - Villa Gesell
 https://wowza.telpin.com.ar:1935/camara-hemingway/hemingway.stream/1.m3u8
 
-####FIN Villa Gesell
+#### FIN VILLA GESELL
 
 
 ##### PINAMAR
@@ -965,7 +965,6 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPINAM___CAMPINAMARGOL
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPINAM___CAMRAMBLA1OST
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Bandera_de_la_localidad_de_Pinamar.png" group-title="Camaras en Vivo",Rambla 2 Ostende - Pinamar
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPINAM___CAMRAMBLA2OST
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Bandera_de_la_localidad_de_Pinamar.png" group-title="Camaras en Vivo",Playa 1 - Ostende 
 https://wowza.telpin.com.ar:1935/camara-rambla/rambla.stream/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Bandera_de_la_localidad_de_Pinamar.png" group-title="Camaras en Vivo",Playa 2 - Ostende 
@@ -988,7 +987,7 @@ https://media.cotecal.com.ar/Glaciar_Cam/index.m3u8
 
 
 #### CHUBUT
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--12PM.png" group-title="Camaras en Vivo",Madryn TV - 12CTV - Puerto Madryn - Chubut
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--12PM.png" group-title="Camaras en Vivo",Madryn TV - Puerto Madryn - Chubut
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCHPUERT___12CMADRYNTV__
 
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CRTUR.png" group-title="Camaras en Vivo",Centro I  Costanera - Cdro Rivadavia - Chubut
@@ -1002,23 +1001,21 @@ https://radiosargentina.com.ar/php/artvIP.php?id=ARCHCDRO____CAMCALETACORD
 
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CRTUR.png" group-title="Camaras en Vivo",Náutico Km3 - Cdro Rivadavia - Chubut
 https://radiosargentina.com.ar/php/artvIP.php?id=ARCHCDRO____CAMNAUTICOKM3
-
 ### FIN CHUBUT
 
 
-#### Mar del Plata
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/22/1/mar-del-plata-logo-png_seeklogo-224225.png" group-title="Camaras en Vivo",Bristol - Mar del Plata
+#### MAR DEL PLATA
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/b4/69/89/b46989baa488a4b5e6a12d349a52876c.jpg" group-title="Camaras en Vivo",Bristol - Mar del Plata
 https://video.estadodelmar.com.ar/player/torreon
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/22/1/mar-del-plata-logo-png_seeklogo-224225.png" group-title="Camaras en Vivo",Pepita - Mar del Plata
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/b4/69/89/b46989baa488a4b5e6a12d349a52876c.jpg" group-title="Camaras en Vivo",Pepita - Mar del Plata
 https://video2.estadodelmar.com.ar/player/PEPITA
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/b4/69/89/b46989baa488a4b5e6a12d349a52876c.jpg" group-title="Camaras en Vivo",Torreon - Mar del Plata
 https://video5.estadodelmar.com.ar/player/TORREON
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/b4/69/89/b46989baa488a4b5e6a12d349a52876c.jpg" group-title="Camaras en Vivo",Muelle - Mar del Plata
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/82/dc/fa/82dcfae6264efc6662a06d7c42e69b06.jpg" group-title="Camaras en Vivo",Muelle - Mar del Plata
 https://video.estadodelmar.com.ar/player/hguerrero2
-
 ##### FIN MAR DEL PLATA
 
 
